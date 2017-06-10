@@ -15,10 +15,6 @@ Pull requests are welcome. Thank you. 💙
 
 # core utils
 
-if you think this can be improved in any way  
-  
-[please say 💙](https://github.com/nikitavoloboev/knowledge-map/issues/564)
-
 
 ## [ls](https://www.explainshell.com/explain/ls)
 
