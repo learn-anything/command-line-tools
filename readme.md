@@ -1,4 +1,16 @@
-# Command line utilities all can benefit from 🐚
+<h1 align="center">Command line utilities all can benefit from 🐚  </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/command-line-tools/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting command line tools one can use to learn and do things faster. 🔭
 
@@ -11,7 +23,8 @@ Pull requests are welcome. Thank you. 💙
 - [awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
 - [awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
 
-# CLI tools 
+
+<h1 align="center"> CLI tools  </h1>
 
 # core utils
 
