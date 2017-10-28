@@ -72,7 +72,7 @@ Pull requests are welcome. Thank you. 💙
 - [gotty](https://github.com/yudai/gotty)
 - [jq](https://github.com/stedolan/jq)
 - [pkg](https://github.com/zeit/pkg)
-- [fasd 🐙](https://github.com/clvv/fasd)
+- [fasd](https://github.com/clvv/fasd)
   - offers quick access to files and directories, inspired by autojump, z and v
 - [HTTPie](https://httpie.org/)
-- [warp 🐙](https://github.com/spolu/warp?attempt=8)
+- [warp](https://github.com/spolu/warp?attempt=8)
