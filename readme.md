@@ -1,7 +1,6 @@
 # Command line utilities all can benefit from 🐚 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
-Here is a curated list of all the interesting command line tools one can use to learn and do things faster. 🔭
+Here is a curated list of all the interesting command line tools one can use to learn and do things faster. 
 
 Pull requests are welcome. Thank you. 💙
 
