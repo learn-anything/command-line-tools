@@ -62,7 +62,6 @@ Pull requests are welcome. Thank you. 💙
 - [jekyll](https://jekyllrb.com/docs/home/)
 
 ### Useful
-- git️
 - [go](https://golang.org/doc/cmd)
 - [docker](https://docs.docker.com/)
 - [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/)
