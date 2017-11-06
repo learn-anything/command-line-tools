@@ -1,10 +1,10 @@
-# Command line utilities all can benefit from 🐚 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting command line tools one can use to learn and do things faster. 
+# Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting command line tools.
 
-### Related websites / repositories 
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
 - [awesome shell](https://github.com/alebcay/awesome-shell)
 - [awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
 - [awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
@@ -76,3 +76,6 @@ Pull requests are welcome. Thank you. 💙
   - offers quick access to files and directories, inspired by autojump, z and v
 - [HTTPie](https://httpie.org/)
 - [warp](https://github.com/spolu/warp?attempt=8)
+
+## Contribute 
+If you found an interesting tool that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
