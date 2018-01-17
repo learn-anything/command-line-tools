@@ -1,16 +1,7 @@
 # Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-This is a curated list of all the interesting command line tools.
-
-Pull requests are welcome. Thank you. 💜
-
-## Related websites / repositories 
-- [awesome shell](https://github.com/alebcay/awesome-shell)
-- [awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
-- [awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
-
-## CLI tools
-### Core utils
+## Core utils
 - [ls](https://www.explainshell.com/explain/ls)
 - [echo](https://www.explainshell.com/explain/echo)
 - [cat](https://www.explainshell.com/explain/cat)
@@ -77,5 +68,7 @@ Pull requests are welcome. Thank you. 💜
 - [HTTPie](https://httpie.org/)
 - [warp](https://github.com/spolu/warp?attempt=8)
 
-## Contribute 
-If you found an interesting tool that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## Related
+- [Awesome shell](https://github.com/alebcay/awesome-shell)
+- [Awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
+- [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
