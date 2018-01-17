@@ -10,63 +10,67 @@
 - [sed](https://www.explainshell.com/explain/sed) - Stream editor.
 - [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
 - [sort](https://www.explainshell.com/explain/1/sort) - Put the lines of a text file in alphanumeric order.
-- [uniq](https://www.explainshell.com/explain/uniq)
-- [tr](https://www.explainshell.com/explain/tr)
-- [cut](https://www.explainshell.com/explain/cut)
-- [paste](https://www.explainshell.com/explain/paste)
-- [split](https://www.explainshell.com/explain/1/split)
-- [join](https://www.explainshell.com/explain/1/join)
-- [bc](https://www.explainshell.com/explain/1/bc)
-- [find](https://www.explainshell.com/explain/1/find)
-- [grep](https://www.explainshell.com/explain/1/grep)
-- [ssh](https://www.explainshell.com/explain/1/ssh)
-- [scp](https://www.explainshell.com/explain/1/scp)
-- [nice](https://www.explainshell.com/explain/1/nice)
-- [kill](https://www.explainshell.com/explain/1/kill)
-- [top](https://www.explainshell.com/explain/1/top)
-- [jobs](https://www.explainshell.com/explain?cmd=jobs)
-- [cron](https://www.explainshell.com/explain/8/cron)
-- [diff](https://www.explainshell.com/explain/1/diff)
-- [awk](https://www.explainshell.com/explain?cmd=awk)
-- [screen](https://www.explainshell.com/explain/1/screen)
-- [gnuplot](https://www.explainshell.com/explain/1/gnuplot)
-- [tree](https://www.explainshell.com/explain/tree)
-- [killall](https://www.explainshell.com/explain/killall)
-- [touch](https://www.explainshell.com/explain/touch)
-- [type](https://www.explainshell.com/explain?cmd=type)
-- [tail](https://www.explainshell.com/explain/tail)
-- [head](https://www.explainshell.com/explain/head)
-- [cpu](https://www.explainshell.com/explain/cpu)
-- [man](https://www.explainshell.com/explain/1/man)
-- [chmod](https://www.explainshell.com/explain/chmod)
-- [ack](https://beyondgrep.com/documentation/)
+- [uniq](https://www.explainshell.com/explain/uniq) - Report or omit repeated lines.
+- [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
+- [cut](https://www.explainshell.com/explain/cut) - Cut out selected portions of each line of a file.
+- [paste](https://www.explainshell.com/explain/paste) - Merge lines of files.
+- [split](https://www.explainshell.com/explain/1/split) - Split a file into pieces.
+- [join](https://www.explainshell.com/explain/1/join) - Join lines of two files on a common field.
+- [bc](https://www.explainshell.com/explain/1/bc) - Arbitrary precision calculator language.
+- [find](https://www.explainshell.com/explain/1/find) - Walk a file hierarchy.
+- [grep](https://www.explainshell.com/explain/1/grep) - File pattern searcher.
+- [ssh](https://www.explainshell.com/explain/1/ssh) - Remote login.
+- [scp](https://www.explainshell.com/explain/1/scp) - Secure copy (remote file copy program).
+- [nice](https://www.explainshell.com/explain/1/nice) - Execute a utility with an altered scheduling priority.
+- [kill](https://www.explainshell.com/explain/1/kill) - Send a signal to a process.
+- [top](https://www.explainshell.com/explain/1/top) - Display and update sorted information about processes.
+- [jobs](https://ss64.com/bash/jobs.html) - Display status of jobs in the current session.
+- [cron](https://www.explainshell.com/explain/8/cron) - Daemon to execute scheduled commands.
+- [diff](https://www.explainshell.com/explain/1/diff) - Compare files line by line.
+- [awk](https://www.explainshell.com/explain?cmd=awk) - Pattern-directed scanning and processing language.
+- [screen](https://www.explainshell.com/explain/1/screen) - Screen manager.
+- [gnuplot](https://www.explainshell.com/explain/1/gnuplot) - Generate two and three dimensional plots of data.
+- [tree](https://www.explainshell.com/explain/tree) - List contents of directories in a tree-like format.
+- [killall](https://www.explainshell.com/explain/killall) - Kill processes by name.
+- [touch](https://www.explainshell.com/explain/touch) - Change file timestamps.
+- [type](https://www.explainshell.com/explain?cmd=type) - Describe a command.
+- [tail](https://www.explainshell.com/explain/tail) - Output the last part of files.
+- [head](https://www.explainshell.com/explain/head) - Output the first part of files.
+- [man](https://www.explainshell.com/explain/1/man) - Open manual pages.
+- [chmod](https://www.explainshell.com/explain/chmod) - Change file mode bits.
+- [ack](https://beyondgrep.com/documentation/) - Grep-like text finder.
 
-### Package managers
-- [yarn](https://yarnpkg.com/lang/en/docs/)
-- [npm](http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html)
-- [brew](http://docs.brew.sh/)
+## Package managers
+- [yarn](https://yarnpkg.com/lang/en/docs/) - Package manager for javascript.
+- [npm](http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html) - Package manager for javascript.
+- [brew](http://docs.brew.sh/) - Package manager for macOS.
 
-### Static website engines
-- [hugo](https://gohugo.io/overview/introduction/)
-- [jekyll](https://jekyllrb.com/docs/home/)
+## Static website engines
+- [hugo](https://gohugo.io/overview/introduction/) - Static site generator written in go.
+- [jekyll](https://jekyllrb.com/docs/home/) - Static site generator written in ruby.
 
 ## Useful
-- [go](https://golang.org/doc/cmd)
-- [docker](https://docs.docker.com/)
-- [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/)
-- [ag](https://github.com/ggreer/the_silver_searcher)
-- [curl](https://www.explainshell.com/explain/curl)
-- [reflex](https://github.com/cespare/reflex)
-- [cmake](https://www.explainshell.com/explain/1/cmake)
-- [ctop](https://github.com/bcicen/ctop)
-- [gotty](https://github.com/yudai/gotty)
-- [jq](https://github.com/stedolan/jq)
-- [pkg](https://github.com/zeit/pkg)
-- [fasd](https://github.com/clvv/fasd)
-- [HTTPie](https://httpie.org/)
-- [warp](https://github.com/spolu/warp?attempt=8)
+- [go](https://golang.org/doc/cmd) - Manage go source code.
+- [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
+- [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
+- [ag](https://github.com/ggreer/the_silver_searcher) - Recursively search for pattern.
+- [curl](https://www.explainshell.com/explain/curl) - Transfer a URL.
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+- [cmake](https://www.explainshell.com/explain/1/cmake) - Cross-platform makefile generator.
+- [ctop](https://github.com/bcicen/ctop) - Container metric viewer.
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [jq](https://github.com/stedolan/jq) - JSON processor
+- [pkg](https://github.com/zeit/pkg) - Package your node.js project into an executable.
+- [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
+- [HTTPie](https://httpie.org/) - HTTP client.
+- [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
 
 ## Related
 - [Awesome shell](https://github.com/alebcay/awesome-shell)
 - [Awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz) has waived all copyright and related or neighboring rights to this work.
