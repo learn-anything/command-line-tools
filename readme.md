@@ -2,15 +2,14 @@
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Core utils
-- [ls](https://www.explainshell.com/explain/ls)
-- [echo](https://www.explainshell.com/explain/echo)
-- [cat](https://www.explainshell.com/explain/cat)
-- [mv](https://www.explainshell.com/explain/mv)
-- [rm](https://www.explainshell.com/explain/rm)
-- [sed](https://www.explainshell.com/explain/sed)
-  - [intro to sed](http://www.grymoire.com/Unix/Sed.html)
-- [wc](https://www.explainshell.com/explain/wc)
-- [sort](https://www.explainshell.com/explain/1/sort)
+- [ls](https://www.explainshell.com/explain/ls) - List directory contents.
+- [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
+- [cat](https://www.explainshell.com/explain/cat) - Concatenate and print files.
+- [mv](https://www.explainshell.com/explain/mv) - Move files.
+- [rm](https://www.explainshell.com/explain/rm) - Remove directory entries.
+- [sed](https://www.explainshell.com/explain/sed) - Stream editor.
+- [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
+- [sort](https://www.explainshell.com/explain/1/sort) - Put the lines of a text file in alphanumeric order.
 - [uniq](https://www.explainshell.com/explain/uniq)
 - [tr](https://www.explainshell.com/explain/tr)
 - [cut](https://www.explainshell.com/explain/cut)
@@ -51,7 +50,7 @@
 - [hugo](https://gohugo.io/overview/introduction/)
 - [jekyll](https://jekyllrb.com/docs/home/)
 
-### Useful
+## Useful
 - [go](https://golang.org/doc/cmd)
 - [docker](https://docs.docker.com/)
 - [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/)
@@ -64,7 +63,6 @@
 - [jq](https://github.com/stedolan/jq)
 - [pkg](https://github.com/zeit/pkg)
 - [fasd](https://github.com/clvv/fasd)
-  - offers quick access to files and directories, inspired by autojump, z and v
 - [HTTPie](https://httpie.org/)
 - [warp](https://github.com/spolu/warp?attempt=8)
 
