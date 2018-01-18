@@ -1,4 +1,4 @@
-# Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)]() [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Core utils
@@ -69,6 +69,9 @@
 - [Awesome shell](https://github.com/alebcay/awesome-shell)
 - [Awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
+
+## More lists 📝
+For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
