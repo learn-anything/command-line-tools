@@ -1,6 +1,16 @@
 # Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)]() [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+## Contents
+- [Core utils](#core-utils)
+- [Package managers](#package-managers)
+- [Static website engines](#static-website-engines)
+- [Useful](#useful)
+- [Java](#java)
+- [Interpreters](#interpreters)
+- [Apple](#apple)
+- [Related](#related)
+
 ## Core utils
 - [ls](https://www.explainshell.com/explain/ls) - List directory contents.
 - [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
@@ -50,6 +60,7 @@
 - [jekyll](https://jekyllrb.com/docs/home/) - Static site generator written in ruby.
 
 ## Useful
+- [ffmpeg](https://www.explainshell.com/explain/ffmpeg) - Video converter.
 - [go](https://golang.org/doc/cmd) - Manage go source code.
 - [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
 - [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
@@ -66,6 +77,7 @@
 - [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
 - [luajit](https://www.explainshell.com/explain/luajit) - Just-in-time compiler for the lua language.
 - [Antibody](https://github.com/getantibody/antibody) - Fastest shell plugin manager.
+- [iStats](https://github.com/Chris911/iStats) - Mac stats.
 
 ## Java
 - [ant](https://www.explainshell.com/explain/ant) - Java based make tool.
