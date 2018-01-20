@@ -64,14 +64,21 @@
 - [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
 - [HTTPie](https://httpie.org/) - HTTP client.
 - [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
+- [luajit](https://www.explainshell.com/explain/luajit) - Just-in-time compiler for the lua language.
+- [Antibody](https://github.com/getantibody/antibody) - Fastest shell plugin manager.
 
-## Interpters
-- [Lua](https://www.explainshell.com/explain/lua)
+## Java
+- [ant](https://www.explainshell.com/explain/ant) - Java based make tool.
 
+## Interpreters
+- [lua](https://www.explainshell.com/explain/lua)
+
+## Apple
+- [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
 
 ## Related
 - [Awesome shell](https://github.com/alebcay/awesome-shell)
-- [Awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
+- [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps)
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
 
 ## More lists 📝
