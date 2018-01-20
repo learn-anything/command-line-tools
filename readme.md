@@ -65,6 +65,10 @@
 - [HTTPie](https://httpie.org/) - HTTP client.
 - [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
 
+## Interpters
+- [Lua](https://www.explainshell.com/explain/lua)
+
+
 ## Related
 - [Awesome shell](https://github.com/alebcay/awesome-shell)
 - [Awesome cli apps](https://github.com/aharris88/awesome-cli-apps)
