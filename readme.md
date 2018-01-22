@@ -1,21 +1,12 @@
 # Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-## Contents
-- [Core utils](#core-utils)
-- [Package managers](#package-managers)
-- [Static website engines](#static-website-engines)
-- [Useful](#useful)
-- [Java](#java)
-- [Interpreters](#interpreters)
-- [Apple](#apple)
-- [Related](#related)
-
 ## Core utils
 - [ls](https://www.explainshell.com/explain/ls) - List directory contents.
+- [ln](https://www.explainshell.com/explain/ln) - Create symbolic links.
 - [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
 - [cat](https://www.explainshell.com/explain/cat) - Concatenate and print files.
-- [mv](https://www.explainshell.com/explain/mv) - Move files.
+- [mv](https://www.explainshell.com/explain/mv) - Move (rename) files.
 - [rm](https://www.explainshell.com/explain/rm) - Remove directory entries.
 - [sed](https://www.explainshell.com/explain/sed) - Stream editor.
 - [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
@@ -30,6 +21,7 @@
 - [find](https://www.explainshell.com/explain/1/find) - Walk a file hierarchy.
 - [grep](https://www.explainshell.com/explain/1/grep) - File pattern searcher.
 - [ssh](https://www.explainshell.com/explain/1/ssh) - Remote login.
+- [cp](https://www.explainshell.com/explain/cp) - Copy files and directories.
 - [scp](https://www.explainshell.com/explain/1/scp) - Secure copy (remote file copy program).
 - [nice](https://www.explainshell.com/explain/1/nice) - Execute a utility with an altered scheduling priority.
 - [kill](https://www.explainshell.com/explain/1/kill) - Send a signal to a process.
@@ -49,6 +41,10 @@
 - [man](https://www.explainshell.com/explain/1/man) - Open manual pages.
 - [chmod](https://www.explainshell.com/explain/chmod) - Change file mode bits.
 - [ack](https://beyondgrep.com/documentation/) - Grep-like text finder.
+- [rmdir](https://www.explainshell.com/explain/rmdir) - Remove empty directories.
+- [file](https://www.explainshell.com/explain/file) - Determine file type.
+- [env](https://www.explainshell.com/explain/env) - Set environment and execute command, or print environment.
+- [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
 
 ## Package managers
 - [yarn](https://yarnpkg.com/lang/en/docs/) - Package manager for javascript.
@@ -60,8 +56,16 @@
 - [jekyll](https://jekyllrb.com/docs/home/) - Static site generator written in ruby.
 
 ## Useful
+- [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
+- [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
+- [asciinema](https://asciinema.org/docs/usage) - Terminal session recorder.
+- [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor.
+- [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
+- [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
+- [tokei](https://github.com/Aaronepower/tokei) - Display statistics about your code.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
+- [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
 - [ffmpeg](https://www.explainshell.com/explain/ffmpeg) - Video converter.
-- [go](https://golang.org/doc/cmd) - Manage go source code.
 - [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
 - [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
 - [ag](https://github.com/ggreer/the_silver_searcher) - Recursively search for pattern.
@@ -73,20 +77,62 @@
 - [jq](https://github.com/stedolan/jq) - JSON processor
 - [pkg](https://github.com/zeit/pkg) - Package your node.js project into an executable.
 - [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
-- [HTTPie](https://httpie.org/) - HTTP client.
+- [htttpie](https://httpie.org/) - HTTP client.
 - [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
-- [luajit](https://www.explainshell.com/explain/luajit) - Just-in-time compiler for the lua language.
 - [Antibody](https://github.com/getantibody/antibody) - Fastest shell plugin manager.
 - [iStats](https://github.com/Chris911/iStats) - Mac stats.
+- [mediumexporter](https://github.com/xdamman/mediumexporter) - Export medium.com articles to markdown.
+- [tar](https://www.explainshell.com/explain/tar) - Manipulate tape archives.
+- [weather](https://github.com/jessfraz/weather) - Weather via the command line.
+- [basename](https://www.explainshell.com/explain/basename) - Strip directory and suffix from filenames.
+- [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
+- [entr](http://entrproject.org/) - Run arbitrary commands when files change.
+- [croc](https://github.com/schollz/croc) - Easily get things from one computer to another.
+- [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi pass.
+- [vsce](https://code.visualstudio.com/docs/extensions/publish-extension) - Publish VS Code extensions.
+- [nm](https://www.explainshell.com/explain/nm) - Display name list (symbol table).
+- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+
+## Git
+- [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
+- [hub](https://github.com/github/hub) - Wrapper aroud Git to extend it with features.
+
+## Go
+- [go](https://golang.org/doc/cmd) - Manage go source code.
+- [playgo](https://github.com/plutov/playgo) - Send .go file to the Go Playground.
+
+## Python
+- [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
 
 ## Java
 - [ant](https://www.explainshell.com/explain/ant) - Java based make tool.
 
-## Interpreters
+## Lua
 - [lua](https://www.explainshell.com/explain/lua)
+- [luajit](https://www.explainshell.com/explain/luajit) - Just-in-time compiler for the lua language.
+
+## Nix
+- [nix-env](https://nixos.org/releases/nix/nix-1.7/manual/) - Manipulate or query Nix user environments.
+- [nix-shell](https://nixos.org/nix/manual/) - Start an interactive shell based on a Nix expression.
+
+## Web
+- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [preact](https://github.com/developit/preact-cli) - Create preact app.
+
+## Text editors
+- [vim](https://github.com/vim/vim) - Modal text editor.
+- [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+- [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
 
 ## Apple
+- [defaults](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/defaults.1.html) - Access user's defaults.
 - [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
+- [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
+- [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
+- [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
+
+## Fun
+- [primitive](primitive) - reproducing images with geometric primitives.
 
 ## Related
 - [Awesome shell](https://github.com/alebcay/awesome-shell)
