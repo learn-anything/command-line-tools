@@ -1,8 +1,9 @@
-# Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
+# Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+*Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 ## Core utils
 - [ls](https://www.explainshell.com/explain/ls) - List directory contents.
+- [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
 - [ln](https://www.explainshell.com/explain/ln) - Create symbolic links.
 - [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
 - [cat](https://www.explainshell.com/explain/cat) - Concatenate and print files.
@@ -45,6 +46,7 @@
 - [file](https://www.explainshell.com/explain/file) - Determine file type.
 - [env](https://www.explainshell.com/explain/env) - Set environment and execute command, or print environment.
 - [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
+- [nohup](https://www.explainshell.com/explain/nohup) - Run a command immune to hangups, with output to a non-tty.
 
 ## Package managers
 - [yarn](https://yarnpkg.com/lang/en/docs/) - Package manager for javascript.
@@ -56,13 +58,16 @@
 - [jekyll](https://jekyllrb.com/docs/home/) - Static site generator written in ruby.
 
 ## Useful
+- [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
 - [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
 - [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
 - [asciinema](https://asciinema.org/docs/usage) - Terminal session recorder.
 - [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor.
 - [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
+- [automake](https://www.explainshell.com/explain/automake) - Automatically create Makefile.in's from Makefile.am's.
 - [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
 - [tokei](https://github.com/Aaronepower/tokei) - Display statistics about your code.
+- [bash](https://www.explainbshell.com/explain/bash) - GNU Bourne-Again SHell.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
 - [ffmpeg](https://www.explainshell.com/explain/ffmpeg) - Video converter.
@@ -71,10 +76,12 @@
 - [ag](https://github.com/ggreer/the_silver_searcher) - Recursively search for pattern.
 - [curl](https://www.explainshell.com/explain/curl) - Transfer a URL.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+- [make](https://www.explainshell.com/explain/make) - GNU make utility to maintain groups of programs.
 - [cmake](https://www.explainshell.com/explain/1/cmake) - Cross-platform makefile generator.
 - [ctop](https://github.com/bcicen/ctop) - Container metric viewer.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [jq](https://github.com/stedolan/jq) - JSON processor
+- [loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [pkg](https://github.com/zeit/pkg) - Package your node.js project into an executable.
 - [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
 - [htttpie](https://httpie.org/) - HTTP client.
@@ -92,14 +99,25 @@
 - [vsce](https://code.visualstudio.com/docs/extensions/publish-extension) - Publish VS Code extensions.
 - [nm](https://www.explainshell.com/explain/nm) - Display name list (symbol table).
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+- [camlp4](https://www.explainshell.com/explain/camlp4) - Pre-Processor-Pretty-Printer for Objective Caml.
+- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
+- [chrome-cli](https://githucb.com/prasmussen/chrome-cli) - Control Google Chrome from the command line.
 
 ## Git
 - [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
 - [hub](https://github.com/github/hub) - Wrapper aroud Git to extend it with features.
+- [tig](https://jonas.github.io/tig/) - Text-mode interface for git.
+
+## Networking
+- [telnet](https://www.explainshell.com/explain/telnet) - User interface to the TELNET protocol.
 
 ## Go
+- [richgo](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
 - [go](https://golang.org/doc/cmd) - Manage go source code.
 - [playgo](https://github.com/plutov/playgo) - Send .go file to the Go Playground.
+
+## Rust
+- [rustup](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer.
 
 ## Python
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
@@ -108,12 +126,13 @@
 - [ant](https://www.explainshell.com/explain/ant) - Java based make tool.
 
 ## Lua
-- [lua](https://www.explainshell.com/explain/lua)
+- [lua](https://www.explainshell.com/explain/lua) - Lua interpreter.
 - [luajit](https://www.explainshell.com/explain/luajit) - Just-in-time compiler for the lua language.
 
 ## Nix
 - [nix-env](https://nixos.org/releases/nix/nix-1.7/manual/) - Manipulate or query Nix user environments.
 - [nix-shell](https://nixos.org/nix/manual/) - Start an interactive shell based on a Nix expression.
+- [nox](nhttps://github.com/madjar/nox) - Tools to make nix nicer to use.
 
 ## Web
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
@@ -139,8 +158,11 @@
 - [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps)
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
 
+## Contributing
+See [contribution guidelines](contributing.md/#contribution-guidelines).
+
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists-).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
