@@ -102,6 +102,7 @@
 - [camlp4](https://www.explainshell.com/explain/camlp4) - Pre-Processor-Pretty-Printer for Objective Caml.
 - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
 - [chrome-cli](https://githucb.com/prasmussen/chrome-cli) - Control Google Chrome from the command line.
+- [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
 
 ## Git
 - [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
