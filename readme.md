@@ -155,6 +155,9 @@
 ## Fun
 - [primitive](primitive) - reproducing images with geometric primitives.
 
+## Games
+- [love](https://love2d.org/) - Framework to make 2D games in Lua.
+
 ## Related
 - [Awesome shell](https://github.com/alebcay/awesome-shell)
 - [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps)
