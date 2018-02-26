@@ -1,5 +1,5 @@
-# Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines#readme) before contributing.*
+# Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md#contribution-guidelines#readme) before contributing.*
 
 ## Core utils
 - [ls](https://www.explainshell.com/explain/ls) - List directory contents.
@@ -164,7 +164,7 @@
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
+See [contribution guidelines](contributing.md#contribution-guidelines#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
