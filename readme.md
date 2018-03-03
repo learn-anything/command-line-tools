@@ -57,54 +57,6 @@
 - [hugo](https://gohugo.io/overview/introduction/) - Static site generator written in go.
 - [jekyll](https://jekyllrb.com/docs/home/) - Static site generator written in ruby.
 
-## Useful
-- [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
-- [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
-- [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
-- [asciinema](https://asciinema.org/docs/usage) - Terminal session recorder.
-- [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor.
-- [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
-- [automake](https://www.explainshell.com/explain/automake) - Automatically create Makefile.in's from Makefile.am's.
-- [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
-- [tokei](https://github.com/Aaronepower/tokei) - Display statistics about your code.
-- [bash](https://www.explainbshell.com/explain/bash) - GNU Bourne-Again SHell.
-- [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
-- [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
-- [ffmpeg](https://www.explainshell.com/explain/ffmpeg) - Video converter.
-- [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
-- [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
-- [ag](https://github.com/ggreer/the_silver_searcher) - Recursively search for pattern.
-- [curl](https://www.explainshell.com/explain/curl) - Transfer a URL.
-- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
-- [make](https://www.explainshell.com/explain/make) - GNU make utility to maintain groups of programs.
-- [cmake](https://www.explainshell.com/explain/1/cmake) - Cross-platform makefile generator.
-- [ctop](https://github.com/bcicen/ctop) - Container metric viewer.
-- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [jq](https://github.com/stedolan/jq) - JSON processor
-- [loc](https://github.com/cgag/loc) - Count lines of code quickly.
-- [pkg](https://github.com/zeit/pkg) - Package your node.js project into an executable.
-- [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
-- [htttpie](https://httpie.org/) - HTTP client.
-- [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
-- [Antibody](https://github.com/getantibody/antibody) - Fastest shell plugin manager.
-- [iStats](https://github.com/Chris911/iStats) - Mac stats.
-- [mediumexporter](https://github.com/xdamman/mediumexporter) - Export medium.com articles to markdown.
-- [tar](https://www.explainshell.com/explain/tar) - Manipulate tape archives.
-- [weather](https://github.com/jessfraz/weather) - Weather via the command line.
-- [basename](https://www.explainshell.com/explain/basename) - Strip directory and suffix from filenames.
-- [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
-- [entr](http://entrproject.org/) - Run arbitrary commands when files change.
-- [croc](https://github.com/schollz/croc) - Easily get things from one computer to another.
-- [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi pass.
-- [vsce](https://code.visualstudio.com/docs/extensions/publish-extension) - Publish VS Code extensions.
-- [nm](https://www.explainshell.com/explain/nm) - Display name list (symbol table).
-- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
-- [camlp4](https://www.explainshell.com/explain/camlp4) - Pre-Processor-Pretty-Printer for Objective Caml.
-- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
-- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
-- [chrome-cli](https://githucb.com/prasmussen/chrome-cli) - Control Google Chrome from the command line.
-- [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
-
 ## Git
 - [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
 - [hub](https://github.com/github/hub) - Wrapper aroud Git to extend it with features.
@@ -157,6 +109,55 @@
 
 ## Games
 - [love](https://love2d.org/) - Framework to make 2D games in Lua.
+
+## Other
+- [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
+- [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
+- [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
+- [asciinema](https://asciinema.org/docs/usage) - Terminal session recorder.
+- [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor.
+- [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
+- [automake](https://www.explainshell.com/explain/automake) - Automatically create Makefile.in's from Makefile.am's.
+- [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
+- [tokei](https://github.com/Aaronepower/tokei) - Display statistics about your code.
+- [bash](https://www.explainbshell.com/explain/bash) - GNU Bourne-Again SHell.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
+- [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
+- [ffmpeg](https://www.explainshell.com/explain/ffmpeg) - Video converter.
+- [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
+- [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
+- [ag](https://github.com/ggreer/the_silver_searcher) - Recursively search for pattern.
+- [curl](https://www.explainshell.com/explain/curl) - Transfer a URL.
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+- [make](https://www.explainshell.com/explain/make) - GNU make utility to maintain groups of programs.
+- [cmake](https://www.explainshell.com/explain/1/cmake) - Cross-platform makefile generator.
+- [ctop](https://github.com/bcicen/ctop) - Container metric viewer.
+- [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [jq](https://github.com/stedolan/jq) - JSON processor
+- [loc](https://github.com/cgag/loc) - Count lines of code quickly.
+- [pkg](https://github.com/zeit/pkg) - Package your node.js project into an executable.
+- [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
+- [htttpie](https://httpie.org/) - HTTP client.
+- [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
+- [Antibody](https://github.com/getantibody/antibody) - Fastest shell plugin manager.
+- [iStats](https://github.com/Chris911/iStats) - Mac stats.
+- [mediumexporter](https://github.com/xdamman/mediumexporter) - Export medium.com articles to markdown.
+- [tar](https://www.explainshell.com/explain/tar) - Manipulate tape archives.
+- [weather](https://github.com/jessfraz/weather) - Weather via the command line.
+- [basename](https://www.explainshell.com/explain/basename) - Strip directory and suffix from filenames.
+- [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
+- [entr](http://entrproject.org/) - Run arbitrary commands when files change.
+- [croc](https://github.com/schollz/croc) - Easily get things from one computer to another.
+- [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi pass.
+- [vsce](https://code.visualstudio.com/docs/extensions/publish-extension) - Publish VS Code extensions.
+- [nm](https://www.explainshell.com/explain/nm) - Display name list (symbol table).
+- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+- [camlp4](https://www.explainshell.com/explain/camlp4) - Pre-Processor-Pretty-Printer for Objective Caml.
+- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
+- [chrome-cli](https://githucb.com/prasmussen/chrome-cli) - Control Google Chrome from the command line.
+- [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+- [snapterm](https://github.com/jorgegonzalez/snapterm) - Take beautiful screenshots of your terminal.
 
 ## Related
 - [Awesome shell](https://github.com/alebcay/awesome-shell)
