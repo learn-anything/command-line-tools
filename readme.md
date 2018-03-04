@@ -19,6 +19,7 @@
 - [split](https://www.explainshell.com/explain/1/split) - Split a file into pieces.
 - [join](https://www.explainshell.com/explain/1/join) - Join lines of two files on a common field.
 - [bc](https://www.explainshell.com/explain/1/bc) - Arbitrary precision calculator language.
+- [strings](https://www.explainshell.com/explain/strings) - Print the strings of printable characters in files.
 - [find](https://www.explainshell.com/explain/1/find) - Walk a file hierarchy.
 - [grep](https://www.explainshell.com/explain/1/grep) - File pattern searcher.
 - [ssh](https://www.explainshell.com/explain/1/ssh) - Remote login.
