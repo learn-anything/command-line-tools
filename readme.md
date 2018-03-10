@@ -98,12 +98,13 @@
 - [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
 
-## Apple
+## macOS
 - [defaults](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/defaults.1.html) - Access user's defaults.
 - [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
 - [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
 - [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
 - [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
+- [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
 
 ## Fun
 - [primitive](primitive) - reproducing images with geometric primitives.
