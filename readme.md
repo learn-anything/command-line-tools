@@ -121,6 +121,7 @@
 - [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
 - [automake](https://www.explainshell.com/explain/automake) - Automatically create Makefile.in's from Makefile.am's.
 - [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
+- [spotify-ripper](https://github.com/tmerten/spotify-ripper) - Rip Spotify URIs to MP3 files.
 - [tokei](https://github.com/Aaronepower/tokei) - Display statistics about your code.
 - [bash](https://www.explainbshell.com/explain/bash) - GNU Bourne-Again SHell.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
