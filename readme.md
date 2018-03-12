@@ -11,6 +11,7 @@
 - [rm](https://www.explainshell.com/explain/rm) - Remove directory entries.
 - [sed](https://www.explainshell.com/explain/sed) - Stream editor.
 - [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
+- [uptime](https://www.explainshell.com/explain/uptime) - Tell how long the system has been running.
 - [sort](https://www.explainshell.com/explain/1/sort) - Put the lines of a text file in alphanumeric order.
 - [uniq](https://www.explainshell.com/explain/uniq) - Report or omit repeated lines.
 - [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
