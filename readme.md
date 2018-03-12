@@ -116,6 +116,7 @@
 ## Other
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
 - [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
+- [rclone](https://rclone.org/docs/) - Rsync for cloud storage.
 - [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
 - [asciinema](https://asciinema.org/docs/usage) - Terminal session recorder.
 - [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor.
