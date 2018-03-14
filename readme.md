@@ -165,9 +165,9 @@
 - [snapterm](https://github.com/jorgegonzalez/snapterm) - Take beautiful screenshots of your terminal.
 
 ## Related
-- [Awesome shell](https://github.com/alebcay/awesome-shell)
-- [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps)
-- [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
+- [Awesome shell](https://github.com/alebcay/awesome-shell#readme)
+- [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps#readme)
+- [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
