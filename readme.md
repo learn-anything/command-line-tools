@@ -62,6 +62,7 @@
 ## Git
 - [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
 - [hub](https://github.com/github/hub) - Wrapper aroud Git to extend it with features.
+- [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts.
 - [tig](https://jonas.github.io/tig/) - Text-mode interface for git.
 
 ## Networking
