@@ -170,6 +170,7 @@
 - [Awesome shell](https://github.com/alebcay/awesome-shell#readme)
 - [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps#readme)
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps#readme)
+- [Structured text tools](https://github.com/dbohdan/structured-text-tools#readme) - List of text-based file formats and command line tools for manipulating each.
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
