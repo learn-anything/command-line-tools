@@ -67,6 +67,7 @@
 
 ## Networking
 - [telnet](https://www.explainshell.com/explain/telnet) - User interface to the TELNET protocol.
+- [sshfs](https://github.com/libfuse/sshfs) - Network filesystem client to connect to SSH servers.
 
 ## Go
 - [richgo](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
