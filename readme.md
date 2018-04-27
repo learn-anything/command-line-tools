@@ -95,6 +95,7 @@
 ## Web
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [preact](https://github.com/developit/preact-cli) - Create preact app.
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 
 ## Text editors
 - [vim](https://github.com/vim/vim) - Modal text editor.
