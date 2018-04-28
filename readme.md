@@ -4,6 +4,7 @@
 ## Core utils
 - [ls](https://www.explainshell.com/explain/ls) - List directory contents.
 - [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
+- [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
 - [ln](https://www.explainshell.com/explain/ln) - Create symbolic links.
 - [lsof](https://www.explainshell.com/explain/lsof) - List open files.
 - [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
