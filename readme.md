@@ -121,6 +121,7 @@
 ## Other
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
+- [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
 - [pv](https://github.com/icetee/pv) - Pipe Viewer.
 - [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
