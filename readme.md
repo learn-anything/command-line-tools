@@ -5,6 +5,7 @@
 - [ls](https://www.explainshell.com/explain/ls) - List directory contents.
 - [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
 - [ln](https://www.explainshell.com/explain/ln) - Create symbolic links.
+- [lsof](https://www.explainshell.com/explain/lsof) - List open files.
 - [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
 - [cat](https://www.explainshell.com/explain/cat) - Concatenate and print files.
 - [mv](https://www.explainshell.com/explain/mv) - Move (rename) files.
