@@ -123,6 +123,8 @@
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
+- [pspg](https://github.com/okbob/pspg) - Postgres Pager.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
 - [pv](https://github.com/icetee/pv) - Pipe Viewer.
 - [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
