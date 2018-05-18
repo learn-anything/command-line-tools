@@ -117,6 +117,7 @@
 
 ## Ruby
 - [ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby.
+- [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment.
 
 ## Games
 - [love](https://love2d.org/) - Framework to make 2D games in Lua.
