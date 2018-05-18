@@ -85,6 +85,7 @@
 
 ## Java
 - [ant](https://www.explainshell.com/explain/ant) - Java based make tool.
+- [java-repl](https://github.com/albertlatacz/java-repl) - Read Eval Print Loop for Java.
 
 ## Lua
 - [lua](https://www.explainshell.com/explain/lua) - Lua interpreter.
@@ -126,11 +127,13 @@
 ## Other
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
+- [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 - [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
 - [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
+- [spark](https://zachholman.com/spark/) - Sparklines for your shell.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
 - [jump](https://github.com/gsamokovarov/jump) - Helps you navigate faster by learning your habits.
 - [less](http://www.greenwoodsoftware.com/less/index.html) - Free, open-source file pager.
