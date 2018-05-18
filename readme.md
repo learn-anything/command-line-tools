@@ -129,6 +129,7 @@
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
+- [npam](https://nmap.org/) - Network mapper.
 - [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
 - [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
