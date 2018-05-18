@@ -129,9 +129,17 @@
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 - [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
+- [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
+- [jump](https://github.com/gsamokovarov/jump) - Helps you navigate faster by learning your habits.
+- [less](http://www.greenwoodsoftware.com/less/index.html) - Free, open-source file pager.
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
+- [camlp4](https://github.com/ocaml/camlp4) - Software system for writing extensible parsers for programming languages.
+- [imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to Imgur. + more cool things.
+- [LicGD](https://libgd.github.io/) - Open source code library for the dynamic creation of images by programmers.
+- [gdbm](https://www.gnu.org.ua/software/gdbm/) - Library of database functions that use extensible hashing and work similar to the standard UNIX dbm.
+- [ninja](https://ninja-build.org/) - Small build system with a focus on speed.
 - [scons](https://github.com/SCons/scons) - Software construction tool.
 - [neofetch](https://github.com/dylanaraps/neofetch) - Displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 - [ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
