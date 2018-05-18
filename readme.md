@@ -125,6 +125,7 @@
 ## Other
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
+- [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
