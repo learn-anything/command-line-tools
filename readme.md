@@ -115,6 +115,9 @@
 ## Fun
 - [primitive](primitive) - reproducing images with geometric primitives.
 
+## Ruby
+- [ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby.
+
 ## Games
 - [love](https://love2d.org/) - Framework to make 2D games in Lua.
 
