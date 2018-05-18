@@ -136,6 +136,7 @@
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [spark](https://zachholman.com/spark/) - Sparklines for your shell.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
+- [stow](https://github.com/aspiers/stow) - Symlink farm manager program.
 - [jump](https://github.com/gsamokovarov/jump) - Helps you navigate faster by learning your habits.
 - [less](http://www.greenwoodsoftware.com/less/index.html) - Free, open-source file pager.
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
