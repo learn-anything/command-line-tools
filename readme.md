@@ -122,6 +122,7 @@
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
+- [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
 - [advancecomp](https://github.com/amadvance/advancecomp) - Collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files.
