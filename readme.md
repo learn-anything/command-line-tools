@@ -158,6 +158,9 @@
 - [aspcud](https://potassco.org/aspcud/) - Solver for package dependencies.
 - [adns](https://www.gnu.org/software/adns/) - Advanced, easy to use, asynchronous-capable DNS client library and utilities.
 - [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
+- [moreutils](https://joeyh.name/code/moreutils/) - Growing collection of the unix tools that nobody thought to write long ago when unix was young.
+- [pngquant](https://pngquant.org/) - Command-line utility and a library for lossy compression of PNG images.
+- [mycli](https://github.com/dbcli/mycli) - Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [rclone](https://rclone.org/docs/) - Rsync for cloud storage.
 - [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
 - [asciinema](https://asciinema.org/docs/usage) - Terminal session recorder.
