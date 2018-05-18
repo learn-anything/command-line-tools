@@ -123,6 +123,7 @@
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
+- [advancecomp](https://github.com/amadvance/advancecomp) - Collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
