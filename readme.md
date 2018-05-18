@@ -154,6 +154,8 @@
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
 - [pv](https://github.com/icetee/pv) - Pipe Viewer.
+- [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
+- [aspcud](https://potassco.org/aspcud/) - Solver for package dependencies.
 - [adns](https://www.gnu.org/software/adns/) - Advanced, easy to use, asynchronous-capable DNS client library and utilities.
 - [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
 - [rclone](https://rclone.org/docs/) - Rsync for cloud storage.
