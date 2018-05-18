@@ -75,6 +75,7 @@
 - [richgo](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
 - [go](https://golang.org/doc/cmd) - Manage go source code.
 - [playgo](https://github.com/plutov/playgo) - Send .go file to the Go Playground.
+- [dep](https://github.com/golang/dep) - Go dependency management tool.
 
 ## Rust
 - [rustup](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer.
@@ -124,13 +125,19 @@
 
 ## Other
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
+- [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
 - [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
+- [scons](https://github.com/SCons/scons) - Software construction tool.
+- [neofetch](https://github.com/dylanaraps/neofetch) - Displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
+- [ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [advancecomp](https://github.com/amadvance/advancecomp) - Collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files.
+- [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
+- [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
