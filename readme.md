@@ -49,6 +49,7 @@
 - [rmdir](https://www.explainshell.com/explain/rmdir) - Remove empty directories.
 - [file](https://www.explainshell.com/explain/file) - Determine file type.
 - [env](https://www.explainshell.com/explain/env) - Set environment and execute command, or print environment.
+- [set](https://www.explainshell.com/explain/set) - Set or unset options and positional parameters.
 - [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
 - [nohup](https://www.explainshell.com/explain/nohup) - Run a command immune to hangups, with output to a non-tty.
 
