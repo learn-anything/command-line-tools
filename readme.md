@@ -1,4 +1,4 @@
-# Awesome Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+# Awesome Command Line Utilities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 ## Core utils
