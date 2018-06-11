@@ -1,4 +1,4 @@
-# Interesting Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+# Awesome Command line utilities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 ## Core utils
@@ -23,6 +23,7 @@
 - [join](https://www.explainshell.com/explain/1/join) - Join lines of two files on a common field.
 - [bc](https://www.explainshell.com/explain/1/bc) - Arbitrary precision calculator language.
 - [strings](https://www.explainshell.com/explain/strings) - Print the strings of printable characters in files.
+- [alias](https://www.explainshell.com/explain/alias) - Define or display aliases.
 - [find](https://www.explainshell.com/explain/1/find) - Walk a file hierarchy.
 - [grep](https://www.explainshell.com/explain/1/grep) - File pattern searcher.
 - [ssh](https://www.explainshell.com/explain/1/ssh) - Remote login.
@@ -32,6 +33,7 @@
 - [kill](https://www.explainshell.com/explain/1/kill) - Send a signal to a process.
 - [top](https://www.explainshell.com/explain/1/top) - Display and update sorted information about processes.
 - [jobs](https://ss64.com/bash/jobs.html) - Display status of jobs in the current session.
+- [apropos](https://www.explainshell.com/explain/apropos) - Search the manual page names and descriptions.
 - [cron](https://www.explainshell.com/explain/8/cron) - Daemon to execute scheduled commands.
 - [diff](https://www.explainshell.com/explain/1/diff) - Compare files line by line.
 - [awk](https://www.explainshell.com/explain?cmd=awk) - Pattern-directed scanning and processing language.
@@ -80,6 +82,7 @@
 
 ## Rust
 - [rustup](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer.
+- [project init](https://github.com/vmchale/project-init) - Project templates in rust.
 
 ## Python
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
@@ -114,6 +117,8 @@
 - [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
 - [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
+- [asr](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/asr.8.html) - Apple Software Restore; copy volumes (e.g. from disk images).
+- [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
 
 ## Fun
 - [primitive](primitive) - reproducing images with geometric primitives.
@@ -125,11 +130,18 @@
 ## Games
 - [love](https://love2d.org/) - Framework to make 2D games in Lua.
 
+## CSV
+- [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
+
 ## Other
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
+- [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
+- [tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
+- [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
 - [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
+- [hask-replace](https://github.com/vmchale/hask-replace) - Command-line tool to rename modules in Haskell projects.
 - [npam](https://nmap.org/) - Network mapper.
 - [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
