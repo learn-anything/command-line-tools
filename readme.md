@@ -1,7 +1,6 @@
 # Awesome Command Line Utilities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
-# 'Display readline key and function bindings' => 'bind',
 # 'Set volume bootability and startup disk options' => 'bless',
 # 'Exit from a For, While, Until or Select loop' => 'break',
 # 'Execute a shell builtin' => 'builtin',
