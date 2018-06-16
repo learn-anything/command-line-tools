@@ -140,6 +140,7 @@
 - [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 - [tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
+- [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
 - [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
 - [friendly-find](https://github.com/sjl/friendly-find) - Usable replacement for find.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
