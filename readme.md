@@ -134,6 +134,10 @@
 ## CSV
 - [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
 
+## File system
+- [modd](https://github.com/cortesi/modd) - Flexible tool for responding to filesystem changes.
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+
 ## Other
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder. Squeezes maximum possible quality from the awful GIF format.
@@ -195,7 +199,6 @@
 - [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
 - [ag](https://github.com/ggreer/the_silver_searcher) - Recursively search for pattern.
 - [curl](https://www.explainshell.com/explain/curl) - Transfer a URL.
-- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 - [make](https://www.explainshell.com/explain/make) - GNU make utility to maintain groups of programs.
 - [cmake](https://www.explainshell.com/explain/1/cmake) - Cross-platform makefile generator.
 - [ctop](https://github.com/bcicen/ctop) - Container metric viewer.
