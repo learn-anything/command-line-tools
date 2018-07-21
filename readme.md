@@ -139,6 +139,7 @@
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 
 ## Other
+- [jump](https://github.com/gsamokovarov/jump) - Integrates with the shell and learns about your navigational habits by keeping track of the directories you visit.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder. Squeezes maximum possible quality from the awful GIF format.
 - [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
