@@ -141,6 +141,7 @@
 ## Other
 - [jump](https://github.com/gsamokovarov/jump) - Integrates with the shell and learns about your navigational habits by keeping track of the directories you visit.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
+- [you-get](https://github.com/soimort/you-get#readme) - Dumb downloader that scrapes the web.
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder. Squeezes maximum possible quality from the awful GIF format.
 - [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 - [tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space.
