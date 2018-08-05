@@ -139,6 +139,7 @@
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 
 ## Other
+- [goaccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [jump](https://github.com/gsamokovarov/jump) - Integrates with the shell and learns about your navigational habits by keeping track of the directories you visit.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
 - [you-get](https://github.com/soimort/you-get#readme) - Dumb downloader that scrapes the web.
