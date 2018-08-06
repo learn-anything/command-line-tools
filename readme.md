@@ -139,6 +139,7 @@
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 
 ## Other
+- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.
 - [goaccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [jump](https://github.com/gsamokovarov/jump) - Integrates with the shell and learns about your navigational habits by keeping track of the directories you visit.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes.
