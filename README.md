@@ -157,7 +157,7 @@
 - [camlp4](https://www.explainshell.com/explain/camlp4) - Pre-Processor-Pretty-Printer for Objective Caml.
 - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
 - [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
-- [chrome-cli](https://githucb.com/prasmussen/chrome-cli) - Control Google Chrome from the command line.
+- [chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line.
 - [cmake](https://www.explainshell.com/explain/1/cmake) - Cross-platform makefile generator.
 - [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
 - [croc](https://github.com/schollz/croc) - Easily get things from one computer to another.
