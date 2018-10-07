@@ -141,12 +141,10 @@
 
 ## Other
 
-- [Antibody](https://github.com/getantibody/antibody) - Fastest shell plugin manager.
-- [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
-- [LicGD](https://libgd.github.io/) - Open source code library for the dynamic creation of images by programmers.
 - [adns](https://www.gnu.org/software/adns/) - Advanced, easy to use, asynchronous-capable DNS client library and utilities.
 - [advancecomp](https://github.com/amadvance/advancecomp) - Collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files.
 - [ag](https://github.com/ggreer/the_silver_searcher) - Recursively search for pattern.
+- [Antibody](https://github.com/getantibody/antibody) - Fastest shell plugin manager.
 - [aria2A](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility.
 - [asciinema](https://asciinema.org/docs/usage) - Terminal session recorder.
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.
@@ -179,11 +177,12 @@
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder. Squeezes maximum possible quality from the awful GIF format.
 - [goaccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+- [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
 - [hask-replace](https://github.com/vmchale/hask-replace) - Command-line tool to rename modules in Haskell projects.
 - [htttpie](https://httpie.org/) - HTTP client.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
-- [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to Imgur. + more cool things.
+- [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [jq](https://github.com/stedolan/jq) - JSON processor
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
 - [jump](https://github.com/gsamokovarov/jump) - Helps you navigate faster by learning your habits.
@@ -192,6 +191,7 @@
 - [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
 - [less](http://www.greenwoodsoftware.com/less/index.html) - Free, open-source file pager.
 - [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
+- [LicGD](https://libgd.github.io/) - Open source code library for the dynamic creation of images by programmers.
 - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 - [make](https://www.explainshell.com/explain/make) - GNU make utility to maintain groups of programs.
@@ -281,12 +281,12 @@
 
 ## macOS
 
-- [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
 - [asr](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/asr.8.html) - Apple Software Restore; copy volumes (e.g. from disk images).
 - [defaults](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/defaults.1.html) - Access user's defaults.
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
 - [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
 - [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
+- [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
 - [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
 - [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
 
