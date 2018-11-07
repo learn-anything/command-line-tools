@@ -7,8 +7,8 @@
 
 #### Contents
 
-- [CSV](#csv)
 - [Core utils](#core-utils)
+- [CSV](#csv)
 - [File system](#file-system)
 - [Fun](#fun)
 - [Games](#games)
@@ -16,24 +16,20 @@
 - [Go](#go)
 - [Java](#java)
 - [Lua](#lua)
+- [macOS](#macos)
 - [Networking](#networking)
 - [Nix](#nix)
-- [Other](#other)
 - [Package managers](#package-managers)
 - [Python](#python)
-- [Related](#related)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Static website engines](#static-website-engines)
 - [Text editors](#text-editors)
 - [Web](#web)
-- [macOS](#macos)
+- [Other](#other)
+- [Related](#related)
 
 ---
-
-## CSV
-
-- [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
 
 ## Core utils
 
@@ -91,6 +87,10 @@
 - [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
 - [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
 
+## CSV
+
+- [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
+
 ## File system
 
 - [modd](https://github.com/cortesi/modd) - Flexible tool for responding to filesystem changes.
@@ -128,6 +128,17 @@
 - [lua](https://www.explainshell.com/explain/lua) - Lua interpreter.
 - [luajit](https://www.explainshell.com/explain/luajit) - Just-in-time compiler for the lua language.
 
+## macOS
+
+- [asr](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/asr.8.html) - Apple Software Restore; copy volumes (e.g. from disk images).
+- [defaults](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/defaults.1.html) - Access user's defaults.
+- [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
+- [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
+- [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
+- [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
+- [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
+- [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
+
 ## Networking
 
 - [sshfs](https://github.com/libfuse/sshfs) - Network filesystem client to connect to SSH servers.
@@ -138,6 +149,43 @@
 - [nix-env](https://nixos.org/releases/nix/nix-1.7/manual/) - Manipulate or query Nix user environments.
 - [nix-shell](https://nixos.org/nix/manual/) - Start an interactive shell based on a Nix expression.
 - [nox](nhttps://github.com/madjar/nox) - Tools to make nix nicer to use.
+
+## Package managers
+
+- [brew](http://docs.brew.sh/) - Package manager for macOS.
+- [npm](http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html) - Package manager for javascript.
+- [yarn](https://yarnpkg.com/lang/en/docs/) - Package manager for javascript.
+
+## Python
+
+- [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
+
+## Ruby
+
+- [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment.
+- [ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby.
+
+## Rust
+
+- [project init](https://github.com/vmchale/project-init) - Project templates in rust.
+- [rustup](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer.
+
+## Static website engines
+
+- [hugo](https://gohugo.io/overview/introduction/) - Static site generator written in go.
+- [jekyll](https://jekyllrb.com/docs/home/) - Static site generator written in ruby.
+
+## Text editors
+
+- [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
+- [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+- [vim](https://github.com/vim/vim) - Modal text editor.
+
+## Web
+
+- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [preact](https://github.com/developit/preact-cli) - Create preact app.
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 
 ## Other
 
@@ -235,60 +283,12 @@
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi pass.
 - [you-get](https://github.com/soimort/you-get#readme) - Dumb downloader that scrapes the web.
 
-## Package managers
-
-- [brew](http://docs.brew.sh/) - Package manager for macOS.
-- [npm](http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html) - Package manager for javascript.
-- [yarn](https://yarnpkg.com/lang/en/docs/) - Package manager for javascript.
-
-## Python
-
-- [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
-
 ## Related
 
 - [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps#readme)
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps#readme)
 - [Awesome shell](https://github.com/alebcay/awesome-shell#readme)
 - [Structured text tools](https://github.com/dbohdan/structured-text-tools#readme) - List of text-based file formats and command line tools for manipulating each.
-
-## Ruby
-
-- [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment.
-- [ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby.
-
-## Rust
-
-- [project init](https://github.com/vmchale/project-init) - Project templates in rust.
-- [rustup](https://github.com/rust-lang-nursery/rustup.rs) - Rust toolchain installer.
-
-## Static website engines
-
-- [hugo](https://gohugo.io/overview/introduction/) - Static site generator written in go.
-- [jekyll](https://jekyllrb.com/docs/home/) - Static site generator written in ruby.
-
-## Text editors
-
-- [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
-- [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
-- [vim](https://github.com/vim/vim) - Modal text editor.
-
-## Web
-
-- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-- [preact](https://github.com/developit/preact-cli) - Create preact app.
-- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-
-## macOS
-
-- [asr](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/asr.8.html) - Apple Software Restore; copy volumes (e.g. from disk images).
-- [defaults](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/defaults.1.html) - Access user's defaults.
-- [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
-- [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
-- [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
-- [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
-- [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
-- [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
 
 ---
 
