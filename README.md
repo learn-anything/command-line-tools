@@ -227,6 +227,7 @@
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
 - [hask-replace](https://github.com/vmchale/hask-replace) - Command-line tool to rename modules in Haskell projects.
+- [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
 - [htttpie](https://httpie.org/) - HTTP client.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to Imgur. + more cool things.
