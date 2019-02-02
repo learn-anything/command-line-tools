@@ -214,6 +214,7 @@
 - [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
 - [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
 - [entr](http://entrproject.org/) - Run arbitrary commands when files change.
+- [eisd](https://github.com/guidojo/eisd) - Execute your favorite command in SubDirectories.
 - [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [ffmpeg](https://www.explainshell.com/explain/ffmpeg) - Video converter.
