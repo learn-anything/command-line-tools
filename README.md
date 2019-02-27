@@ -86,6 +86,7 @@
 - [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
 - [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
 - [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
+- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI.
 
 ## CSV
 
