@@ -8,7 +8,7 @@
 #### Contents
 
 - [Core utils](#core-utils)
-- [Core Utils reimplemented](#core-utils-reimplemented)
+- [Core utils reimplemented](#core-utils-reimplemented)
 - [CSV](#csv)
 - [File system](#file-system)
 - [Fun](#fun)
@@ -88,7 +88,7 @@
 - [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
 - [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
 
-## Core Utils reimplemented
+## Core utils reimplemented
 
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in Rust.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI.
