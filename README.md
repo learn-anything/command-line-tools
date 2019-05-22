@@ -209,7 +209,6 @@
 - [basename](https://www.explainshell.com/explain/basename) - Strip directory and suffix from filenames.
 - [bash](https://www.explainbshell.com/explain/bash) - GNU Bourne-Again SHell.
 - [camlp4](https://github.com/ocaml/camlp4) - Software system for writing extensible parsers for programming languages.
-- [camlp4](https://www.explainshell.com/explain/camlp4) - Pre-Processor-Pretty-Printer for Objective Caml.
 - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
 - [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
 - [chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line.
@@ -241,10 +240,8 @@
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to Imgur. + more cool things.
 - [iStats](https://github.com/Chris911/iStats) - Mac stats.
-- [jq](https://github.com/stedolan/jq) - JSON processor
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
 - [jump](https://github.com/gsamokovarov/jump) - Helps you navigate faster by learning your habits.
-- [jump](https://github.com/gsamokovarov/jump) - Integrates with the shell and learns about your navigational habits by keeping track of the directories you visit.
 - [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
 - [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) - Kubernetes cluster manager.
 - [less](http://www.greenwoodsoftware.com/less/index.html) - Free, open-source file pager.
@@ -265,7 +262,6 @@
 - [npam](https://nmap.org/) - Network mapper.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [pkg](https://github.com/zeit/pkg) - Package your node.js project into an executable.
-- [pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor.
 - [pngquant](https://pngquant.org/) - Command-line utility and a library for lossy compression of PNG images.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [pv](https://github.com/icetee/pv) - Pipe Viewer.
