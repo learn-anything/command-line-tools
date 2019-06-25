@@ -195,6 +195,7 @@
 
 ## Other
 
+- [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools.
 - [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [adns](https://www.gnu.org/software/adns/) - Advanced, easy to use, asynchronous-capable DNS client library and utilities.
