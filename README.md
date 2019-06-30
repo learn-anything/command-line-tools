@@ -195,6 +195,7 @@
 
 ## Other
 
+- [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools.
 - [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
