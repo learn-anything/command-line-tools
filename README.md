@@ -195,6 +195,7 @@
 
 ## Other
 
+- [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
 - [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools.
