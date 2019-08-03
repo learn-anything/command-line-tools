@@ -195,6 +195,7 @@
 
 ## Other
 
+- [rga](https://github.com/phiresky/ripgrep-all) - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
 - [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
