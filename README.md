@@ -294,6 +294,7 @@
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi pass.
 - [you-get](https://github.com/soimort/you-get#readme) - Dumb downloader that scrapes the web.
 - [dust](https://github.com/bootandy/dust) - More intuitive version of du in rust.
+- [mdcat](https://github.com/lunaryorn/mdcat) - `cat` for Markdown.
 
 ## Related
 
