@@ -183,6 +183,7 @@
 
 ## Text editors
 
+- [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi selections.
 - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
 - [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [vim](https://github.com/vim/vim) - Modal text editor.
