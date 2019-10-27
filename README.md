@@ -79,7 +79,6 @@
 - [top](https://www.explainshell.com/explain/1/top) - Display and update sorted information about processes.
 - [touch](https://www.explainshell.com/explain/touch) - Change file timestamps.
 - [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
-- [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
 - [tree](https://www.explainshell.com/explain/tree) - List contents of directories in a tree-like format.
 - [type](https://www.explainshell.com/explain?cmd=type) - Describe a command.
 - [uniq](https://www.explainshell.com/explain/uniq) - Report or omit repeated lines.
