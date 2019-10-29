@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
----
-
 #### Contents
 
 - [Core utils](#core-utils)
@@ -20,7 +18,7 @@
 - [macOS](#macos)
 - [Networking](#networking)
 - [Nix](#nix)
-- [Package managers](#package-managers)
+- [Pacgkage managers](#package-managers)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -29,8 +27,6 @@
 - [Web](#web)
 - [Other](#other)
 - [Related](#related)
-
----
 
 ## Core utils
 
@@ -195,6 +191,7 @@
 
 ## Other
 
+- [pazi](https://github.com/euank/pazi) - Fast autojump helper.
 - [cbf](https://github.com/joshuatvernon/cbf) - Build custom CLI apps with only a json or yaml file.
 - [rga](https://github.com/phiresky/ripgrep-all) - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
@@ -302,8 +299,6 @@
 - [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps#readme)
 - [Awesome shell](https://github.com/alebcay/awesome-shell#readme)
 - [Structured text tools](https://github.com/dbohdan/structured-text-tools#readme) - List of text-based file formats and command line tools for manipulating each.
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
