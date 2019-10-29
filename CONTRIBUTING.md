@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included CLI tools before adding a new one, as yours may be a duplicate.
 - Use the following format: `[name](link) - Description.`
 - The link should either link to [Explain Shell](https://www.explainshell.com), the docs for the command or the GitHub repository of the tool.
@@ -11,4 +13,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
 
-Thank you for [your suggestions](../../edit/master/README.md)! 💜
+Thank you for [your suggestions](../../edit/master/README.md)! ♥️
