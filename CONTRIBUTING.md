@@ -9,7 +9,6 @@ Ensure your pull request adheres to following guidelines:
 - Use the following format: `[name](link) - Description.`
 - The link should link to GitHub repo of the tool or [Explain Shell](https://www.explainshell.com).
 - The tool should be put into its appropriate category. Pick one you think is closest if you are not sure.
-- Only add tools you think are awesome.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
