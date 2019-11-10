@@ -4,8 +4,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 #### Contents
 
-- [Core utils](#core-utils)
-- [Core utils reimplemented](#core-utils-reimplemented)
 - [CSV](#csv)
 - [File system](#file-system)
 - [Fun](#fun)
@@ -26,66 +24,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Web](#web)
 - [Other](#other)
 - [Related](#related)
-
-## Core utils
-
-- [ack](https://beyondgrep.com/documentation/) - Grep-like text finder.
-- [alias](https://www.explainshell.com/explain/alias) - Define or display aliases.
-- [apropos](https://www.explainshell.com/explain/apropos) - Search the manual page names and descriptions.
-- [awk](https://www.explainshell.com/explain?cmd=awk) - Pattern-directed scanning and processing language.
-- [bc](https://www.explainshell.com/explain/1/bc) - Arbitrary precision calculator language.
-- [cat](https://www.explainshell.com/explain/cat) - Concatenate and print files.
-- [cd](https://www.explainshell.com/explain/cd) - Change Directory.
-- [chmod](https://www.explainshell.com/explain/chmod) - Change file mode bits.
-- [cp](https://www.explainshell.com/explain/cp) - Copy files and directories.
-- [cron](https://www.explainshell.com/explain/8/cron) - Daemon to execute scheduled commands.
-- [cut](https://www.explainshell.com/explain/cut) - Cut out selected portions of each line of a file.
-- [diff](https://www.explainshell.com/explain/1/diff) - Compare files line by line.
-- [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
-- [env](https://www.explainshell.com/explain/env) - Set environment and execute command, or print environment.
-- [file](https://www.explainshell.com/explain/file) - Determine file type.
-- [find](https://www.explainshell.com/explain/1/find) - Walk a file hierarchy.
-- [gnuplot](https://www.explainshell.com/explain/1/gnuplot) - Generate two and three dimensional plots of data.
-- [grep](https://www.explainshell.com/explain/1/grep) - File pattern searcher.
-- [head](https://www.explainshell.com/explain/head) - Output the first part of files.
-- [jobs](https://ss64.com/bash/jobs.html) - Display status of jobs in the current session.
-- [join](https://www.explainshell.com/explain/1/join) - Join lines of two files on a common field.
-- [kill](https://www.explainshell.com/explain/1/kill) - Send a signal to a process.
-- [killall](https://www.explainshell.com/explain/killall) - Kill processes by name.
-- [ln](https://www.explainshell.com/explain/ln) - Create symbolic links.
-- [ls](https://www.explainshell.com/explain/ls) - List directory contents.
-- [lsof](https://www.explainshell.com/explain/lsof) - List open files.
-- [man](https://www.explainshell.com/explain/1/man) - Open manual pages.
-- [mv](https://www.explainshell.com/explain/mv) - Move (rename) files.
-- [nice](https://www.explainshell.com/explain/1/nice) - Execute a utility with an altered scheduling priority.
-- [nohup](https://www.explainshell.com/explain/nohup) - Run a command immune to hangups, with output to a non-tty.
-- [paste](https://www.explainshell.com/explain/paste) - Merge lines of files.
-- [rm](https://www.explainshell.com/explain/rm) - Remove directory entries.
-- [rmdir](https://www.explainshell.com/explain/rmdir) - Remove empty directories.
-- [scp](https://www.explainshell.com/explain/1/scp) - Secure copy (remote file copy program).
-- [screen](https://www.explainshell.com/explain/1/screen) - Screen manager.
-- [sed](https://www.explainshell.com/explain/sed) - Stream editor.
-- [set](https://www.explainshell.com/explain/set) - Set or unset options and positional parameters.
-- [sort](https://www.explainshell.com/explain/1/sort) - Put the lines of a text file in alphanumeric order.
-- [split](https://www.explainshell.com/explain/1/split) - Split a file into pieces.
-- [ssh](https://www.explainshell.com/explain/1/ssh) - Remote login.
-- [strings](https://www.explainshell.com/explain/strings) - Print the strings of printable characters in files.
-- [tail](https://www.explainshell.com/explain/tail) - Output the last part of files.
-- [top](https://www.explainshell.com/explain/1/top) - Display and update sorted information about processes.
-- [touch](https://www.explainshell.com/explain/touch) - Change file timestamps.
-- [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
-- [tree](https://www.explainshell.com/explain/tree) - List contents of directories in a tree-like format.
-- [type](https://www.explainshell.com/explain?cmd=type) - Describe a command.
-- [uniq](https://www.explainshell.com/explain/uniq) - Report or omit repeated lines.
-- [uptime](https://www.explainshell.com/explain/uptime) - Tell how long the system has been running.
-- [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
-- [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
-- [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
-
-## Core utils reimplemented
-
-- [exa](https://github.com/ogham/exa) - Replacement for ls written in Rust.
-- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI.
 
 ## CSV
 
@@ -190,6 +128,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
+- [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of tldr in Rust.
 - [pazi](https://github.com/euank/pazi) - Fast autojump helper.
 - [cbf](https://github.com/joshuatvernon/cbf) - Build custom CLI apps with only a json or yaml file.
 - [rga](https://github.com/phiresky/ripgrep-all) - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -291,6 +230,60 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [you-get](https://github.com/soimort/you-get#readme) - Dumb downloader that scrapes the web.
 - [dust](https://github.com/bootandy/dust) - More intuitive version of du in rust.
 - [mdcat](https://github.com/lunaryorn/mdcat) - `cat` for Markdown.
+- [exa](https://github.com/ogham/exa) - Replacement for ls written in Rust.
+- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI.
+- [ack](https://beyondgrep.com/documentation/) - Grep-like text finder.
+- [alias](https://www.explainshell.com/explain/alias) - Define or display aliases.
+- [apropos](https://www.explainshell.com/explain/apropos) - Search the manual page names and descriptions.
+- [awk](https://www.explainshell.com/explain?cmd=awk) - Pattern-directed scanning and processing language.
+- [bc](https://www.explainshell.com/explain/1/bc) - Arbitrary precision calculator language.
+- [cat](https://www.explainshell.com/explain/cat) - Concatenate and print files.
+- [cd](https://www.explainshell.com/explain/cd) - Change Directory.
+- [chmod](https://www.explainshell.com/explain/chmod) - Change file mode bits.
+- [cp](https://www.explainshell.com/explain/cp) - Copy files and directories.
+- [cron](https://www.explainshell.com/explain/8/cron) - Daemon to execute scheduled commands.
+- [cut](https://www.explainshell.com/explain/cut) - Cut out selected portions of each line of a file.
+- [diff](https://www.explainshell.com/explain/1/diff) - Compare files line by line.
+- [echo](https://www.explainshell.com/explain/echo) - Write arguments to the standard output.
+- [env](https://www.explainshell.com/explain/env) - Set environment and execute command, or print environment.
+- [file](https://www.explainshell.com/explain/file) - Determine file type.
+- [find](https://www.explainshell.com/explain/1/find) - Walk a file hierarchy.
+- [gnuplot](https://www.explainshell.com/explain/1/gnuplot) - Generate two and three dimensional plots of data.
+- [grep](https://www.explainshell.com/explain/1/grep) - File pattern searcher.
+- [head](https://www.explainshell.com/explain/head) - Output the first part of files.
+- [jobs](https://ss64.com/bash/jobs.html) - Display status of jobs in the current session.
+- [join](https://www.explainshell.com/explain/1/join) - Join lines of two files on a common field.
+- [kill](https://www.explainshell.com/explain/1/kill) - Send a signal to a process.
+- [killall](https://www.explainshell.com/explain/killall) - Kill processes by name.
+- [ln](https://www.explainshell.com/explain/ln) - Create symbolic links.
+- [ls](https://www.explainshell.com/explain/ls) - List directory contents.
+- [lsof](https://www.explainshell.com/explain/lsof) - List open files.
+- [man](https://www.explainshell.com/explain/1/man) - Open manual pages.
+- [mv](https://www.explainshell.com/explain/mv) - Move (rename) files.
+- [nice](https://www.explainshell.com/explain/1/nice) - Execute a utility with an altered scheduling priority.
+- [nohup](https://www.explainshell.com/explain/nohup) - Run a command immune to hangups, with output to a non-tty.
+- [paste](https://www.explainshell.com/explain/paste) - Merge lines of files.
+- [rm](https://www.explainshell.com/explain/rm) - Remove directory entries.
+- [rmdir](https://www.explainshell.com/explain/rmdir) - Remove empty directories.
+- [scp](https://www.explainshell.com/explain/1/scp) - Secure copy (remote file copy program).
+- [screen](https://www.explainshell.com/explain/1/screen) - Screen manager.
+- [sed](https://www.explainshell.com/explain/sed) - Stream editor.
+- [set](https://www.explainshell.com/explain/set) - Set or unset options and positional parameters.
+- [sort](https://www.explainshell.com/explain/1/sort) - Put the lines of a text file in alphanumeric order.
+- [split](https://www.explainshell.com/explain/1/split) - Split a file into pieces.
+- [ssh](https://www.explainshell.com/explain/1/ssh) - Remote login.
+- [strings](https://www.explainshell.com/explain/strings) - Print the strings of printable characters in files.
+- [tail](https://www.explainshell.com/explain/tail) - Output the last part of files.
+- [top](https://www.explainshell.com/explain/1/top) - Display and update sorted information about processes.
+- [touch](https://www.explainshell.com/explain/touch) - Change file timestamps.
+- [tr](https://www.explainshell.com/explain/tr) - Translate or delete characters.
+- [tree](https://www.explainshell.com/explain/tree) - List contents of directories in a tree-like format.
+- [type](https://www.explainshell.com/explain?cmd=type) - Describe a command.
+- [uniq](https://www.explainshell.com/explain/uniq) - Report or omit repeated lines.
+- [uptime](https://www.explainshell.com/explain/uptime) - Tell how long the system has been running.
+- [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
+- [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
+- [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
 
 ## Related
 
