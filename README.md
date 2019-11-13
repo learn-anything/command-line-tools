@@ -117,6 +117,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi selections.
 - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
+- [emacs](https://www.gnu.org/software/emacs) - Extendable/customizable text editor.
 - [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [vim](https://github.com/vim/vim) - Modal text editor.
 
@@ -296,4 +297,3 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
