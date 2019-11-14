@@ -2,7 +2,7 @@
 
 _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
-## Contents
+#### Contents
 
 - [CSV](#csv)
 - [File system](#file-system)
