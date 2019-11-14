@@ -75,6 +75,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
 - [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
 - [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
+- [iStats](https://github.com/Chris911/iStats) - Mac stats.
+- [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
 - [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
 
 ## Networking
@@ -97,6 +99,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Python
 
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
+- [rq](https://github.com/rq/rq) - Simple job queues for Python.
 
 ## Ruby
 
@@ -117,6 +120,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi selections.
 - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
+- [emacs](https://www.explainshell.com/explain/emacs) - Extendable/customizable text editor.
 - [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [vim](https://github.com/vim/vim) - Modal text editor.
 
@@ -179,7 +183,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [htttpie](https://httpie.org/) - HTTP client.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to Imgur. + more cool things.
-- [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
 - [jump](https://github.com/gsamokovarov/jump) - Helps you navigate faster by learning your habits.
 - [just](https://github.com/casey/just) - Handy way to save and run project-specific commands.
@@ -190,7 +193,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 - [make](https://www.explainshell.com/explain/make) - GNU make utility to maintain groups of programs.
-- [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
 - [massren](https://github.com/laurent22/massren) - Easily rename multiple files using your text editor.
 - [mediumexporter](https://github.com/xdamman/mediumexporter) - Export medium.com articles to markdown.
 - [moreutils](https://joeyh.name/code/moreutils/) - Growing collection of the unix tools that nobody thought to write long ago when unix was young.
@@ -207,7 +209,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [pv](https://github.com/icetee/pv) - Pipe Viewer.
 - [rclone](https://rclone.org/docs/) - Rsync for cloud storage.
 - [rename](http://plasmasturm.org/code/rename/) - Renames files according to modification rules specified on the command line.
-- [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [scipy](https://github.com/scipy/scipy) - Open-source software for mathematics, science, and engineering.
 - [scons](https://github.com/SCons/scons) - Software construction tool.
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
@@ -296,4 +297,3 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
