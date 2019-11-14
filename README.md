@@ -2,7 +2,7 @@
 
 _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
-#### Contents
+## Contents
 
 - [CSV](#csv)
 - [File system](#file-system)
@@ -15,7 +15,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [macOS](#macos)
 - [Networking](#networking)
 - [Nix](#nix)
-- [Pacgkage managers](#package-managers)
+- [Package managers](#package-managers)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -46,7 +46,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts.
 - [git](https://www.explainshell.com/explain/git) - The stupid content tracker.
-- [hub](https://github.com/github/hub) - Wrapper aroud Git to extend it with features.
+- [hub](https://github.com/github/hub) - Wrapper around Git to extend it with features.
 - [tig](https://jonas.github.io/tig/) - Text-mode interface for git.
 
 ## Go
@@ -121,7 +121,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi selections.
 - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
 - [emacs](https://www.explainshell.com/explain/emacs) - Extendable/customizable text editor.
-- [nvim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [vim](https://github.com/vim/vim) - Modal text editor.
 
 ## Web
