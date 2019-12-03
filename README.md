@@ -81,6 +81,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Networking
 
+- [curlie](https://github.com/rs/curlie) - Power of curl, the ease of use of httpie.
 - [sshfs](https://github.com/libfuse/sshfs) - Network filesystem client to connect to SSH servers.
 - [telnet](https://www.explainshell.com/explain/telnet) - User interface to the TELNET protocol.
 
