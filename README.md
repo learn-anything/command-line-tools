@@ -36,7 +36,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Fun
 
-- [primitive](primitive) - reproducing images with geometric primitives.
+- [primitive](https://github.com/fogleman/primitive) - reproducing images with geometric primitives.
 
 ## Games
 
