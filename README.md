@@ -134,6 +134,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Other
 
 - [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of tldr in Rust.
+- [xcp](https://github.com/tarka/xcp) - Extended cp.
 - [pazi](https://github.com/euank/pazi) - Fast autojump helper.
 - [cbf](https://github.com/joshuatvernon/cbf) - Build custom CLI apps with only a json or yaml file.
 - [rga](https://github.com/phiresky/ripgrep-all) - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
