@@ -133,6 +133,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
+- [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of tldr in Rust.
 - [xcp](https://github.com/tarka/xcp) - Extended cp.
 - [pazi](https://github.com/euank/pazi) - Fast autojump helper.
