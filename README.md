@@ -81,9 +81,11 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Networking
 
+- [Catflap](https://github.com/passcod/catflap) - Creates a listening TCP socket and passes its FD to a child process.
 - [curlie](https://github.com/rs/curlie) - Power of curl, the ease of use of httpie.
 - [sshfs](https://github.com/libfuse/sshfs) - Network filesystem client to connect to SSH servers.
 - [telnet](https://www.explainshell.com/explain/telnet) - User interface to the TELNET protocol.
+- [bandwhich](https://github.com/imsnif/bandwhich) - CLI utility for displaying current network utilization by process, connection and remote IP/hostname.
 
 ## Nix
 
@@ -133,6 +135,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
+- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz.
+- [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
 - [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis.
 - [viu](https://github.com/atanunq/viu) - Command-line application to view images from the terminal written in Rust.
 - [tealdeer](https://github.com/dbrgn/tealdeer) - Very fast implementation of tldr in Rust.
