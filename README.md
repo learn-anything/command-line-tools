@@ -135,6 +135,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
+- [diskus](https://github.com/sharkdp/diskus) - Minimal, fast alternative to du -sh.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz.
 - [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
 - [uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis.
