@@ -137,6 +137,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
+- [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
 - [diskus](https://github.com/sharkdp/diskus) - Minimal, fast alternative to du -sh.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz.
 - [dtool](https://github.com/guoxbin/dtool) - Collection of development tools.
