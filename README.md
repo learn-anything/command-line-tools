@@ -135,6 +135,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
+- [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
 - [broot](https://github.com/Canop/broot) - New way to see and navigate directory trees.
