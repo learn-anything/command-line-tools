@@ -299,6 +299,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [wc](https://www.explainshell.com/explain/wc) - Print newline, word, and byte counts for each file.
 - [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
 - [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
+- [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
 
 ## Related
 
