@@ -135,6 +135,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
+- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
@@ -300,6 +301,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [whoami](https://www.explainshell.com/explain/whoami) - Print effective userid.
 - [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
 - [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
+- [jwt-cli](https://github.com/mike-engel/jwt-cli) - Super fast CLI tool to decode and encode JWTs built in Rust.
 
 ## Related
 
