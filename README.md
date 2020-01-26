@@ -152,7 +152,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [cbf](https://github.com/joshuatvernon/cbf) - Build custom CLI apps with only a json or yaml file.
 - [rga](https://github.com/phiresky/ripgrep-all) - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
-- [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
+- [ytop](https://github.com/cjbassi/ytop) - TUI system monitor written in Rust.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools.
 - [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
