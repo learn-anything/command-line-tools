@@ -138,6 +138,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [gomi](https://github.com/b4b4r07/gomi) - Trash can in CLI.
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
 - [broot](https://github.com/Canop/broot) - New way to see and navigate directory trees.
 - [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
