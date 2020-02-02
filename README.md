@@ -136,6 +136,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Other
 
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+- [Pueue](https://github.com/Nukesor/pueue) - Daemon for managing long running shell commands.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [gomi](https://github.com/b4b4r07/gomi) - Trash can in CLI.
