@@ -136,6 +136,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Other
 
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+- [procs](https://github.com/dalance/procs) - Modern replacement for ps written in Rust.
 - [Pueue](https://github.com/Nukesor/pueue) - Daemon for managing long running shell commands.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
