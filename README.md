@@ -137,6 +137,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [procs](https://github.com/dalance/procs) - Modern replacement for ps written in Rust.
+- [termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [amber](https://github.com/dalance/amber) - Code search / replace tool.
 - [Pueue](https://github.com/Nukesor/pueue) - Daemon for managing long running shell commands.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
