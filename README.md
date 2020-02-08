@@ -28,6 +28,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## CSV
 
 - [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
+- [csvdiff](https://github.com/aswinkarthik/csvdiff) - Fast diff tool for comparing csv files.
 
 ## File system
 
