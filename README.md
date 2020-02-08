@@ -143,6 +143,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [gomi](https://github.com/b4b4r07/gomi) - Trash can in CLI.
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
+- [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
 - [broot](https://github.com/Canop/broot) - New way to see and navigate directory trees.
 - [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
 - [diskus](https://github.com/sharkdp/diskus) - Minimal, fast alternative to du -sh.
