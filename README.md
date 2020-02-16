@@ -139,6 +139,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [procs](https://github.com/dalance/procs) - Modern replacement for ps written in Rust.
 - [termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
+- [squeeze](https://github.com/aymericbeaumet/squeeze) - Enables to extract rich information from any text (raw, JSON, HTML, YAML, etc).
 - [amber](https://github.com/dalance/amber) - Code search / replace tool.
 - [Pueue](https://github.com/Nukesor/pueue) - Daemon for managing long running shell commands.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
@@ -309,6 +310,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [whois](https://www.explainshell.com/explain/whois) - Client for the whois directory service.
 - [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
 - [jwt-cli](https://github.com/mike-engel/jwt-cli) - Super fast CLI tool to decode and encode JWTs built in Rust.
+- [rtss](https://github.com/Freaky/rtss) - Relative TimeStamps for Stuff.
 
 ## Related
 
