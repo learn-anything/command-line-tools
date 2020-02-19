@@ -311,6 +311,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [habitctl](https://github.com/blinry/habitctl) - Minimalist command line tool you can use to track and examine your habits.
 - [jwt-cli](https://github.com/mike-engel/jwt-cli) - Super fast CLI tool to decode and encode JWTs built in Rust.
 - [rtss](https://github.com/Freaky/rtss) - Relative TimeStamps for Stuff.
+- [jc](https://github.com/kellyjonbrazil/jc) - Serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
 
 ## Related
 
