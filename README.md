@@ -314,6 +314,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [rtss](https://github.com/Freaky/rtss) - Relative TimeStamps for Stuff.
 - [jc](https://github.com/kellyjonbrazil/jc) - Serializes the output of popular gnu linux command line tools and file types to structured JSON output. This allows piping of output to tools like jq.
 - [psrecord](https://github.com/astrofrog/psrecord) - Record the CPU and memory activity of a process.
+- [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
 
 ## Related
 
