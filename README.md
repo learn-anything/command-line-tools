@@ -137,6 +137,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Other
 
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - cd command that learns your habits.
+- [pastefile](https://github.com/xyproto/pastefile) - Create a file that contains the contents from the clipboard.
 - [ran](https://github.com/m3ng9i/ran) - Simple static web server written in Go.
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [procs](https://github.com/dalance/procs) - Modern replacement for ps written in Rust.
