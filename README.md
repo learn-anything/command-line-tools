@@ -136,6 +136,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
+- [zenith](https://github.com/bvaisvil/zenith) - Sort of like top or htop but with zoom-able charts, network, and disk usage.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - cd command that learns your habits.
 - [pastefile](https://github.com/xyproto/pastefile) - Create a file that contains the contents from the clipboard.
