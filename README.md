@@ -137,6 +137,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Other
 
 - [zenith](https://github.com/bvaisvil/zenith) - Sort of like top or htop but with zoom-able charts, network, and disk usage.
+- [wtf](https://github.com/wtfutil/wtf) - Personal information dashboard for your terminal.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - cd command that learns your habits.
 - [pastefile](https://github.com/xyproto/pastefile) - Create a file that contains the contents from the clipboard.
@@ -322,6 +323,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [psrecord](https://github.com/astrofrog/psrecord) - Record the CPU and memory activity of a process.
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
 - [undent](https://github.com/bradfitz/undent) - Unindent text/code.
+- [misspell](https://github.com/client9/misspell) - Correct commonly misspelled English words in source files.
 
 ## Related
 
