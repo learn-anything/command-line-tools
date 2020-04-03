@@ -325,6 +325,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [bottom](https://github.com/ClementTsang/bottom) - Cross-platform graphical process/system monitor with a customizable interface and a multitude of features.
 - [undent](https://github.com/bradfitz/undent) - Unindent text/code.
 - [misspell](https://github.com/client9/misspell) - Correct commonly misspelled English words in source files.
+- [rargs](https://github.com/lotabout/rargs) - Kind of xargs + awk with pattern-matching support.
 
 ## Related
 
