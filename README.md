@@ -138,6 +138,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [zenith](https://github.com/bvaisvil/zenith) - Sort of like top or htop but with zoom-able charts, network, and disk usage.
 - [grcov](https://github.com/mozilla/grcov) - Collects and aggregates code coverage information for multiple source files.
+- [process-viewer](https://github.com/GuillaumeGomez/process-viewer) - Process viewer GUI in rust.
 - [wtf](https://github.com/wtfutil/wtf) - Personal information dashboard for your terminal.
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - cd command that learns your habits.
