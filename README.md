@@ -327,6 +327,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [misspell](https://github.com/client9/misspell) - Correct commonly misspelled English words in source files.
 - [rargs](https://github.com/lotabout/rargs) - Kind of xargs + awk with pattern-matching support.
 - [dupe-krill](https://github.com/kornelski/dupe-krill) - Fast file deduplicator.
+- [fcat](https://github.com/mre/fcat) - Cat implementation in Rust. Only works on Linux.
 
 ## Related
 
