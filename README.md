@@ -328,6 +328,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [rargs](https://github.com/lotabout/rargs) - Kind of xargs + awk with pattern-matching support.
 - [dupe-krill](https://github.com/kornelski/dupe-krill) - Fast file deduplicator.
 - [fcat](https://github.com/mre/fcat) - Cat implementation in Rust. Only works on Linux.
+- [lorem](https://github.com/per9000/lorem) - Python lorem ipsum generator.
 
 ## Related
 
