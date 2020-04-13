@@ -329,6 +329,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [dupe-krill](https://github.com/kornelski/dupe-krill) - Fast file deduplicator.
 - [fcat](https://github.com/mre/fcat) - Cat implementation in Rust. Only works on Linux.
 - [lorem](https://github.com/per9000/lorem) - Python lorem ipsum generator.
+- [miller](https://github.com/johnkerl/miller) - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
 
 ## Related
 
