@@ -334,6 +334,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations and COCOMO estimates.
 - [gf](https://github.com/tomnomnom/gf) - Wrapper around grep, to help you grep for things.
 - [godu](https://github.com/viktomas/godu) - Simple golang utility helping to discover large files/folders.
+- [now](https://github.com/zeit/now) - Develop. Preview. Ship.
 
 ## Related
 
