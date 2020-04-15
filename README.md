@@ -331,6 +331,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [lorem](https://github.com/per9000/lorem) - Python lorem ipsum generator.
 - [miller](https://github.com/johnkerl/miller) - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
 - [kickstart](https://github.com/Keats/kickstart) - Scaffolding tool to get new projects up and running quickly.
+- [scc](https://github.com/boyter/scc) - Very fast accurate code counter with complexity calculations and COCOMO estimates.
 
 ## Related
 
