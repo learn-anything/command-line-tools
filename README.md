@@ -336,6 +336,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [gf](https://github.com/tomnomnom/gf) - Wrapper around grep, to help you grep for things.
 - [godu](https://github.com/viktomas/godu) - Simple golang utility helping to discover large files/folders.
 - [now](https://github.com/zeit/now) - Develop. Preview. Ship.
+- [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers.
 
 ## Related
 
