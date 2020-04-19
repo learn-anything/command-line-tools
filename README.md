@@ -155,6 +155,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [jq in Go](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
 - [gomi](https://github.com/b4b4r07/gomi) - Trash can in CLI.
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
+- [linkchecker](https://github.com/linkchecker/linkchecker) - Check links in web documents or full websites.
 - [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents. ([HN](https://news.ycombinator.com/item?id=22915834))
 - [broot](https://github.com/Canop/broot) - New way to see and navigate directory trees.
 - [chars](https://github.com/antifuchs/chars) - Display names and codes for various ASCII (and unicode) characters / code points.
