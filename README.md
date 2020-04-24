@@ -337,6 +337,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [godu](https://github.com/viktomas/godu) - Simple golang utility helping to discover large files/folders.
 - [now](https://github.com/zeit/now) - Develop. Preview. Ship.
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers.
+- [hex](https://github.com/sitkevij/hex) - Futuristic take on hexdump, made in Rust.
 
 ## Related
 
