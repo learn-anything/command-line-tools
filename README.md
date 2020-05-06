@@ -339,6 +339,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers.
 - [hex](https://github.com/sitkevij/hex) - Futuristic take on hexdump, made in Rust.
 - [url-parser](https://github.com/herloct/url-parser) - Command-line URL parser, written in Go.
+- [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
 
 ## Related
 
