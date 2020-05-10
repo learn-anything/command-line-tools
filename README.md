@@ -340,6 +340,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [hex](https://github.com/sitkevij/hex) - Futuristic take on hexdump, made in Rust.
 - [url-parser](https://github.com/herloct/url-parser) - Command-line URL parser, written in Go.
 - [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
+- [spin](https://github.com/egoist/spin) - Simple scaffolding tool.
 
 ## Related
 
