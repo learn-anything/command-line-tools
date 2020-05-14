@@ -341,6 +341,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [url-parser](https://github.com/herloct/url-parser) - Command-line URL parser, written in Go.
 - [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
 - [spin](https://github.com/egoist/spin) - Simple scaffolding tool.
+- [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
 
 ## Related
 
