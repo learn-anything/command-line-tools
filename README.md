@@ -342,6 +342,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [luneta](https://github.com/fbeline/luneta) - Interactive filter that can be easily composed within any script.
 - [spin](https://github.com/egoist/spin) - Simple scaffolding tool.
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
+- [wifi-password](https://github.com/bradyjoslin/wifi-password) - Quickly share Wi-Fi connection info.
 
 ## Related
 
