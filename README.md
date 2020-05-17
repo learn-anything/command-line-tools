@@ -343,6 +343,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [spin](https://github.com/egoist/spin) - Simple scaffolding tool.
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
 - [wifi-password](https://github.com/bradyjoslin/wifi-password) - Quickly share Wi-Fi connection info.
+- [delta](https://github.com/dandavison/delta) - Syntax-highlighter for git and diff output.
 
 ## Related
 
