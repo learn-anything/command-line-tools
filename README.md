@@ -16,6 +16,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Networking](#networking)
 - [Nix](#nix)
 - [Package managers](#package-managers)
+- [Productivity](#productivity)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -99,6 +100,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [brew](http://docs.brew.sh/) - Package manager for macOS.
 - [npm](http://manpages.ubuntu.com/manpages/precise/en/man1/npm.1.html) - Package manager for javascript.
 - [yarn](https://yarnpkg.com/lang/en/docs/) - Package manager for javascript.
+
+## Productivity
+
+- [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
 
 ## Python
 
