@@ -138,6 +138,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [preact](https://github.com/developit/preact-cli) - Create preact app.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+- [urlsup](https://github.com/simeg/urlsup) - CLI to validate URLs in files.
 
 ## Other
 
@@ -349,6 +350,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths.
 - [wifi-password](https://github.com/bradyjoslin/wifi-password) - Quickly share Wi-Fi connection info.
 - [delta](https://github.com/dandavison/delta) - Syntax-highlighter for git and diff output.
+- [fzz](https://github.com/mrnugget/fzz) - Allows you to change the input of a single command interactively.
 
 ## Related
 
