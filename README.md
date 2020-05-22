@@ -351,6 +351,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [wifi-password](https://github.com/bradyjoslin/wifi-password) - Quickly share Wi-Fi connection info.
 - [delta](https://github.com/dandavison/delta) - Syntax-highlighter for git and diff output.
 - [fzz](https://github.com/mrnugget/fzz) - Allows you to change the input of a single command interactively.
+- [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line.
 
 ## Related
 
