@@ -91,7 +91,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Nix
 
-- [nix-env](https://nixos.org/releases/nix/nix-1.7/manual/) - Manipulate or query Nix user environments.
+- [nix-env](https://www.mankier.com/1/nix-env) - Manipulate or query Nix user environments.
 - [nix-shell](https://nixos.org/nix/manual/) - Start an interactive shell based on a Nix expression.
 - [nox](nhttps://github.com/madjar/nox) - Tools to make nix nicer to use.
 
