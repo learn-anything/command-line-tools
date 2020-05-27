@@ -252,7 +252,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [scons](https://github.com/SCons/scons) - Software construction tool.
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
-- [snapterm](https://github.com/jorgegonzalez/snapterm) - Take beautiful screenshots of your terminal.
 - [spark](https://zachholman.com/spark/) - Sparklines for your shell.
 - [spotify-ripper](https://github.com/tmerten/spotify-ripper) - Rip Spotify URIs to MP3 files.
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
