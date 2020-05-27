@@ -70,7 +70,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## macOS
 
-- [asr](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/asr.8.html) - Apple Software Restore; copy volumes (e.g. from disk images).
+- [asr](https://ss64.com/osx/asr.html) - Apple Software Restore; copy volumes (e.g. from disk images).
 - [defaults](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/defaults.1.html) - Access user's defaults.
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
 - [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
