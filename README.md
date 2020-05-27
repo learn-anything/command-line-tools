@@ -75,7 +75,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
 - [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
 - [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
-- [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
+- [PlistBuddy](https://www.unix.com/man-page/osx/8/PlistBuddy/) - Read and write values to plists.
 - [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
 - [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
