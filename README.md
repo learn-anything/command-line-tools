@@ -190,7 +190,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [aspcud](https://potassco.org/aspcud/) - Solver for package dependencies.
 - [automake](https://www.explainshell.com/explain/automake) - Automatically create Makefile.in's from Makefile.am's.
 - [basename](https://www.explainshell.com/explain/basename) - Strip directory and suffix from filenames.
-- [bash](https://www.explainbshell.com/explain/bash) - GNU Bourne-Again SHell.
+- [bash](https://www.explainshell.com/explain/bash) - GNU Bourne-Again SHell.
 - [camlp4](https://github.com/ocaml/camlp4) - Software system for writing extensible parsers for programming languages.
 - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
 - [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
