@@ -352,6 +352,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [delta](https://github.com/dandavison/delta) - Syntax-highlighter for git and diff output.
 - [fzz](https://github.com/mrnugget/fzz) - Allows you to change the input of a single command interactively.
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line.
+- [github-stats](https://github.com/umutphp/github-stats) - Command-line tool to get the total traffic statistics of your GitHub repositories.
 
 ## Related
 
