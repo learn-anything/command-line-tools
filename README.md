@@ -70,16 +70,16 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## macOS
 
-- [asr](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/asr.8.html) - Apple Software Restore; copy volumes (e.g. from disk images).
-- [defaults](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/defaults.1.html) - Access user's defaults.
+- [asr](https://ss64.com/osx/asr.html) - Apple Software Restore; copy volumes (e.g. from disk images).
+- [defaults](https://ss64.com/osx/defaults.html) - Access user's defaults.
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
 - [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
 - [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
-- [PlistBuddy](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/PlistBuddy.8.html) - Read and write values to plists.
-- [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
+- [PlistBuddy](https://www.unix.com/man-page/osx/8/PlistBuddy/) - Read and write values to plists.
+- [softwareupdate](https://www.unix.com/man-page/osx/8/softwareupdate/) - System software update tool.
 - [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
-- [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
+- [time](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/time.3.html)
 
 ## Networking
 
@@ -91,7 +91,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Nix
 
-- [nix-env](https://nixos.org/releases/nix/nix-1.7/manual/) - Manipulate or query Nix user environments.
+- [nix-env](https://www.mankier.com/1/nix-env) - Manipulate or query Nix user environments.
 - [nix-shell](https://nixos.org/nix/manual/) - Start an interactive shell based on a Nix expression.
 - [nox](nhttps://github.com/madjar/nox) - Tools to make nix nicer to use.
 
@@ -190,7 +190,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [aspcud](https://potassco.org/aspcud/) - Solver for package dependencies.
 - [automake](https://www.explainshell.com/explain/automake) - Automatically create Makefile.in's from Makefile.am's.
 - [basename](https://www.explainshell.com/explain/basename) - Strip directory and suffix from filenames.
-- [bash](https://www.explainbshell.com/explain/bash) - GNU Bourne-Again SHell.
+- [bash](https://www.explainshell.com/explain/bash) - GNU Bourne-Again SHell.
 - [camlp4](https://github.com/ocaml/camlp4) - Software system for writing extensible parsers for programming languages.
 - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
 - [chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.
@@ -252,7 +252,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [scons](https://github.com/SCons/scons) - Software construction tool.
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust.
 - [snallygaster](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers.
-- [snapterm](https://github.com/jorgegonzalez/snapterm) - Take beautiful screenshots of your terminal.
 - [spark](https://zachholman.com/spark/) - Sparklines for your shell.
 - [spotify-ripper](https://github.com/tmerten/spotify-ripper) - Rip Spotify URIs to MP3 files.
 - [static-docs](https://github.com/apex/static) - General-purpose library, purpose-built commands for various domains.
