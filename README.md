@@ -79,7 +79,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [softwareupdate](https://www.unix.com/man-page/osx/8/softwareupdate/) - System software update tool.
 - [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
-- [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
+- [time](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/time.3.html)
 
 ## Networking
 
