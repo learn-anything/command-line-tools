@@ -76,7 +76,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [kexstat](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KEXTConcept/Articles/command_line_tools.html) - Display status of loaded kernel extensions.
 - [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS.
 - [PlistBuddy](https://www.unix.com/man-page/osx/8/PlistBuddy/) - Read and write values to plists.
-- [softwareupdate](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html) - System software update tool.
+- [softwareupdate](https://www.unix.com/man-page/osx/8/softwareupdate/) - System software update tool.
 - [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
 - [time](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/time.1.html)
