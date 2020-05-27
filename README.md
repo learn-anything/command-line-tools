@@ -354,6 +354,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line.
 - [github-stats](https://github.com/umutphp/github-stats) - Command-line tool to get the total traffic statistics of your GitHub repositories.
 - [map](https://github.com/soveran/map) - Map lines from stdin to commands.
+- [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool built with Rust.
 
 ## Related
 
