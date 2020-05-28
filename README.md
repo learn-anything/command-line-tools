@@ -354,6 +354,8 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [github-stats](https://github.com/umutphp/github-stats) - Command-line tool to get the total traffic statistics of your GitHub repositories.
 - [map](https://github.com/soveran/map) - Map lines from stdin to commands.
 - [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool built with Rust.
+- [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions.
+- [PWatch](https://github.com/VladimirMarkelov/pwatch) - Process Watcher.
 
 ## Related
 
