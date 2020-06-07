@@ -357,6 +357,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions.
 - [PWatch](https://github.com/VladimirMarkelov/pwatch) - Process Watcher.
 - [Rdfind](https://github.com/pauldreik/rdfind) - Command line tool that finds duplicate files.
+- [bfs](https://github.com/tavianator/bfs) - Breadth-first search for your files.
 
 ## Related
 
