@@ -356,6 +356,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool built with Rust.
 - [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions.
 - [PWatch](https://github.com/VladimirMarkelov/pwatch) - Process Watcher.
+- [Rdfind](https://github.com/pauldreik/rdfind) - Command line tool that finds duplicate files.
 
 ## Related
 
