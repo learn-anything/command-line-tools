@@ -80,6 +80,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [iStats](https://github.com/Chris911/iStats) - Mac stats.
 - [mas](https://github.com/mas-cli/mas) - Command line interface for the Mac App Store.
 - [time](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/time.3.html)
+- [switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 
 ## Networking
 
