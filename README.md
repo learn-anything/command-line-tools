@@ -221,6 +221,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [hexyl](https://github.com/sharkdp/hexyl) - Command-line hex viewer.
 - [htttpie](https://httpie.org/) - HTTP client.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
+- [temci](https://github.com/parttimenerd/temci) - Advanced benchmarking tool written in Python 3 that supports setting up an environment for benchmarking and the generation of visually appealing reports.
 - [imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to Imgur. + more cool things.
 - [jq](https://stedolan.github.io/jq/) - Lightweight and flexible command-line JSON processor.
 - [jump](https://github.com/gsamokovarov/jump) - Helps you navigate faster by learning your habits.
