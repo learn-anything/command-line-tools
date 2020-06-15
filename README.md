@@ -365,6 +365,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [yj](https://github.com/sclevine/yj) - Convert YAML <=> TOML <=> JSON <=> HCL.
 - [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager.
 - [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
+- [hostblock](https://github.com/cgag/hostblock) - Simple terminal interface for blocking websites via the /etc/hosts file.
 
 ## Related
 
