@@ -367,6 +367,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
 - [hostblock](https://github.com/cgag/hostblock) - Simple terminal interface for blocking websites via the /etc/hosts file.
 - [ugrep](https://github.com/Genivia/ugrep) - Ultra fast grep with interactive query UI.
+- [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 
 ## Related
 
