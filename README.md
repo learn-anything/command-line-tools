@@ -262,7 +262,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
 - [tar](https://www.explainshell.com/explain/tar) - Manipulate tape archives.
 - [tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space.
-- [tokei](https://github.com/Aaronepower/tokei) - Display statistics about your code.
+- [tokei](https://github.com/Aaronepower/tokei) - Display statistics about your code. ([Reddit](https://www.reddit.com/r/rust/comments/hdr6gd/announcing_tokei_12_a_fast_accurate_code_analysis/))
 - [visidata](https://github.com/saulpw/visidata) - Terminal spreadsheet multitool for discovering and arranging data.
 - [vsce](https://code.visualstudio.com/docs/extensions/publish-extension) - Publish VS Code extensions.
 - [warp](https://github.com/spolu/warp?attempt=8) - Secure and simple terminal sharing.
@@ -369,7 +369,6 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [ugrep](https://github.com/Genivia/ugrep) - Ultra fast grep with interactive query UI.
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 - [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
-- [tokei](https://github.com/XAMPPRocky/tokei) - Program that displays statistics about your code. ([Reddit](https://www.reddit.com/r/rust/comments/hdr6gd/announcing_tokei_12_a_fast_accurate_code_analysis/))
 
 ## Related
 
