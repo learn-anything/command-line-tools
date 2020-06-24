@@ -1,8 +1,6 @@
-# Command line tools [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Command line tools [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [CSV](#csv)
 - [File system](#file-system)
@@ -269,7 +267,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [weather](https://github.com/jessfraz/weather) - Weather via the command line.
 - [wego](https://github.com/schachmat/wego) - Weather app for the terminal.
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get wifi pass.
-- [you-get](https://github.com/soimort/you-get#readme) - Dumb downloader that scrapes the web.
+- [you-get](https://github.com/soimort/you-get) - Dumb downloader that scrapes the web.
 - [dust](https://github.com/bootandy/dust) - More intuitive version of du in rust.
 - [mdcat](https://github.com/lunaryorn/mdcat) - `cat` for Markdown.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in Rust.
@@ -372,12 +370,12 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Related
 
-- [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps#readme)
-- [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps#readme)
-- [Awesome shell](https://github.com/alebcay/awesome-shell#readme)
-- [Structured text tools](https://github.com/dbohdan/structured-text-tools#readme) - List of text-based file formats and command line tools for manipulating each.
+- [Awesome CLI apps](https://github.com/aharris88/awesome-cli-apps)
+- [Awesome command line apps](https://github.com/herrbischoff/awesome-command-line-apps)
+- [Awesome shell](https://github.com/alebcay/awesome-shell)
+- [Structured text tools](https://github.com/dbohdan/structured-text-tools) - List of text-based file formats and command line tools for manipulating each.
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
