@@ -368,6 +368,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 - [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
 - [drep](https://github.com/maxpert/drep) - Grep with dynamic reloadable filter expressions. This allows filtering stream of logs/lines, while changing filters on the fly.
+- [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
 
 ## Related
 
