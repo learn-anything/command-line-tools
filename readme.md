@@ -203,7 +203,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
 - [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
 - [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
-- [entr](http://entrproject.org/) - Run arbitrary commands when files change.
+- [entr](http://entrproject.org/) - Run arbitrary commands when files change. ([Article](https://jvns.ca/blog/2020/06/28/entr/))
 - [eisd](https://github.com/guidojo/eisd) - Execute your favorite command in SubDirectories.
 - [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
