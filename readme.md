@@ -159,6 +159,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [jq in Go](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
+- [faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ.
 - [gomi](https://github.com/b4b4r07/gomi) - Trash can in CLI.
 - [jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go.
 - [linkchecker](https://github.com/linkchecker/linkchecker) - Check links in web documents or full websites.
