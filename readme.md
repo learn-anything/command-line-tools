@@ -157,7 +157,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [amber](https://github.com/dalance/amber) - Code search / replace tool.
 - [Pueue](https://github.com/Nukesor/pueue) - Daemon for managing long running shell commands.
 - [mmv](https://github.com/itchyny/mmv) - Rename multiple files using your \$EDITOR.
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor. ([Mastering JQ](https://codefaster.substack.com/p/mastering-jq-part-1-59c))
 - [jq in Go](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
 - [faq](https://github.com/jzelinskie/faq) - Format Agnostic jQ.
 - [gomi](https://github.com/b4b4r07/gomi) - Trash can in CLI.
