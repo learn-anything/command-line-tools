@@ -109,6 +109,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [livepython](https://github.com/agermanidis/livepython) - Visually trace python code in real-time.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
+- [tg](https://github.com/paul-nameless/tg) - Telegram terminal client.
 
 ## Ruby
 
