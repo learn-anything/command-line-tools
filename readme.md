@@ -243,7 +243,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [neofetch](https://github.com/dylanaraps/neofetch) - Displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 - [ninja](https://ninja-build.org/) - Small build system with a focus on speed.
 - [nm](https://www.explainshell.com/explain/nm) - Display name list (symbol table).
-- [npam](https://nmap.org/) - Network mapper.
+- [nmap](https://nmap.org/) - Network mapper.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [pkg](https://github.com/zeit/pkg) - Package your node.js project into an executable.
 - [pngquant](https://pngquant.org/) - Command-line utility and a library for lossy compression of PNG images.
