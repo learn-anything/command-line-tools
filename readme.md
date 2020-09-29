@@ -372,6 +372,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [drep](https://github.com/maxpert/drep) - Grep with dynamic reloadable filter expressions. This allows filtering stream of logs/lines, while changing filters on the fly.
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
 - [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
 
 ## Related
 
