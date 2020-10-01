@@ -373,6 +373,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
 - [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
+- [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust.
 
 ## Related
 
