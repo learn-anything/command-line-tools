@@ -374,6 +374,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust.
+- [huniq](https://github.com/koraa/huniq) - Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.
 
 ## Related
 
