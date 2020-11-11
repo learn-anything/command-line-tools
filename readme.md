@@ -377,6 +377,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [huniq](https://github.com/koraa/huniq) - Command line utility to remove duplicates from the given input. Note that huniq does not sort the input, it just removes duplicates.
 - [RustScan](https://github.com/RustScan/RustScan) - Modern Port Scanner.
 - [nat](https://github.com/willdoescode/nat) - Complete replacement for the 'ls' command.
+- [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
 
 ## Related
 
