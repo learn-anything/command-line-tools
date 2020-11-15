@@ -379,6 +379,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [nat](https://github.com/willdoescode/nat) - Complete replacement for the 'ls' command.
 - [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
+- [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
 
 ## Related
 
