@@ -378,6 +378,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [RustScan](https://github.com/RustScan/RustScan) - Modern Port Scanner.
 - [nat](https://github.com/willdoescode/nat) - Complete replacement for the 'ls' command.
 - [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
+- [gping](https://github.com/orf/gping) - Ping, but with a graph.
 
 ## Related
 
