@@ -380,6 +380,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
+- [googler](https://github.com/jarun/googler) - Google from the terminal.
 
 ## Related
 
