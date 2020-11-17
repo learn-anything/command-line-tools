@@ -381,6 +381,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [gping](https://github.com/orf/gping) - Ping, but with a graph.
 - [FClones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder.
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
+- [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
+- [dasel](https://github.com/TomWright/dasel) - Allows you to query and modify data structures using selector strings.
 
 ## Related
 
