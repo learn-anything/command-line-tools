@@ -383,6 +383,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
 - [dasel](https://github.com/TomWright/dasel) - Allows you to query and modify data structures using selector strings.
+- [McFly](https://github.com/cantino/mcfly) - Fly through your shell history.
 
 ## Related
 
