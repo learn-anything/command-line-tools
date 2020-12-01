@@ -384,6 +384,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Proji](https://github.com/nikoksr/proji) - Powerful cross-platform CLI project templating tool.
 - [dasel](https://github.com/TomWright/dasel) - Allows you to query and modify data structures using selector strings.
 - [McFly](https://github.com/cantino/mcfly) - Fly through your shell history.
+- [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices.
 
 ## Related
 
