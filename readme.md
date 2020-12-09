@@ -387,6 +387,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [pbgopy](https://github.com/nakabonne/pbgopy) - Copy and paste between devices.
 - [prism](https://github.com/muesli/prism) - RTMP stream recaster / splitter.
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line. ([Web](https://menyoki.cli.rs/))
+- [projen](https://github.com/projen/projen) - Define and maintain complex project configuration through code.
+- [lsd](https://github.com/Peltoche/lsd) - Next gen ls command.
 
 ## Related
 
