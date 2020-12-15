@@ -389,6 +389,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line. ([Web](https://menyoki.cli.rs/))
 - [projen](https://github.com/projen/projen) - Define and maintain complex project configuration through code.
 - [lsd](https://github.com/Peltoche/lsd) - Next gen ls command.
+- [ls-lint](https://github.com/loeffel-io/ls-lint) - Extremely fast directory and filename linter - Bring some structure to your project directories. ([Docs](https://ls-lint.org/))
+- [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
 
 ## Related
 
