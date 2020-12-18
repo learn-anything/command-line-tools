@@ -391,6 +391,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [lsd](https://github.com/Peltoche/lsd) - Next gen ls command.
 - [ls-lint](https://github.com/loeffel-io/ls-lint) - Extremely fast directory and filename linter - Bring some structure to your project directories. ([Docs](https://ls-lint.org/))
 - [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
+- [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
 
 ## Related
 
