@@ -358,6 +358,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [map](https://github.com/soveran/map) - Map lines from stdin to commands.
 - [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool built with Rust.
 - [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions.
+- [ijq](https://sr.ht/~gpanders/ijq) - Interactive jq tool. Like jqplay for the command line.
 - [PWatch](https://github.com/VladimirMarkelov/pwatch) - Process Watcher.
 - [Rdfind](https://github.com/pauldreik/rdfind) - Command line tool that finds duplicate files.
 - [bfs](https://github.com/tavianator/bfs) - Breadth-first search for your files.
