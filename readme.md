@@ -393,6 +393,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [ls-lint](https://github.com/loeffel-io/ls-lint) - Extremely fast directory and filename linter - Bring some structure to your project directories. ([Docs](https://ls-lint.org/))
 - [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
 - [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
+- [urlhunter](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
 
 ## Related
 
