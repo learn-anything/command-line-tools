@@ -394,6 +394,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
 - [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
 - [urlhunter](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
+- [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
 
 ## Related
 
