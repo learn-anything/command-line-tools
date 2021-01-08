@@ -89,6 +89,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [sshfs](https://github.com/libfuse/sshfs) - Network filesystem client to connect to SSH servers.
 - [telnet](https://www.explainshell.com/explain/telnet) - User interface to the TELNET protocol.
 - [bandwhich](https://github.com/imsnif/bandwhich) - CLI utility for displaying current network utilization by process, connection and remote IP/hostname.
+- [httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era.
+- [http-prompt](https://github.com/httpie/http-prompt) - Interactive command-line HTTP and API testing tool built on top of HTTPie with autocomplete, syntax highlighting, and more.
 
 ## Nix
 
