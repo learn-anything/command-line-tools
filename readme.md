@@ -398,6 +398,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [vgrep](https://github.com/vrothberg/vgrep) - User-friendly pager for grep.
 - [urlhunter](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
 - [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
+- [Orderly](https://github.com/andrewchambers/orderly) - Tool that provides ordered and controlled start, stop, restart and cleanup of a group of processes.
 
 ## Related
 
