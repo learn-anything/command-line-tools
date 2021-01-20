@@ -208,7 +208,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
 - [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
 - [docker](https://docs.docker.com/) - Self-sufficient runtime for containers.
-- [entr](http://entrproject.org/) - Run arbitrary commands when files change. ([Article](https://jvns.ca/blog/2020/06/28/entr/))
+- [entr](http://entrproject.org/) - Run arbitrary commands when files change. ([Article](https://jvns.ca/blog/2020/06/28/entr/)) ([Code](https://github.com/eradman/entr))
 - [eisd](https://github.com/guidojo/eisd) - Execute your favorite command in SubDirectories.
 - [fasd](https://github.com/clvv/fasd) - Quick access to files and directories.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
@@ -399,6 +399,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [urlhunter](https://github.com/utkusen/urlhunter) - Recon tool that allows searching on URLs that are exposed via shortener services.
 - [rip](https://github.com/nivekuil/rip) - Safe and ergonomic alternative to rm.
 - [Orderly](https://github.com/andrewchambers/orderly) - Tool that provides ordered and controlled start, stop, restart and cleanup of a group of processes.
+- [Ruplacer](https://github.com/TankerHQ/ruplacer) - Find and replace text in source files.
 
 ## Related
 
