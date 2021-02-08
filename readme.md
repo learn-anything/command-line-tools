@@ -362,6 +362,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool built with Rust.
 - [jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions.
 - [ijq](https://sr.ht/~gpanders/ijq) - Interactive jq tool. Like jqplay for the command line.
+- [rex](https://sr.ht/~yerinalexey/rex) - Command line playground for regular expressions.
 - [PWatch](https://github.com/VladimirMarkelov/pwatch) - Process Watcher.
 - [Rdfind](https://github.com/pauldreik/rdfind) - Command line tool that finds duplicate files.
 - [bfs](https://github.com/tavianator/bfs) - Breadth-first search for your files.
