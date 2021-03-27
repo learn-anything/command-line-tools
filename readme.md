@@ -403,6 +403,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Orderly](https://github.com/andrewchambers/orderly) - Tool that provides ordered and controlled start, stop, restart and cleanup of a group of processes.
 - [Ruplacer](https://github.com/TankerHQ/ruplacer) - Find and replace text in source files.
 - [Graphtage](https://github.com/trailofbits/graphtage) - Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
+- [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel. ([Web](https://sq.io/))
 
 ## Related
 
