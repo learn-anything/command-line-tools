@@ -404,7 +404,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ruplacer](https://github.com/TankerHQ/ruplacer) - Find and replace text in source files.
 - [Graphtage](https://github.com/trailofbits/graphtage) - Semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel. ([Web](https://sq.io/))
-- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
+- [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard. ([HN](https://news.ycombinator.com/item?id=26608233))
+- [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 
 ## Related
 
