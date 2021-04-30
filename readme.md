@@ -406,6 +406,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel. ([Web](https://sq.io/))
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard. ([HN](https://news.ycombinator.com/item?id=26608233))
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
+- [Freshfetch](https://github.com/K4rakara/freshfetch) - Fresh take on Neofetch.
 
 ## Related
 
