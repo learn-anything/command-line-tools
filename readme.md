@@ -407,6 +407,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard. ([HN](https://news.ycombinator.com/item?id=26608233))
 - [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [Freshfetch](https://github.com/K4rakara/freshfetch) - Fresh take on Neofetch.
+- [rush](https://github.com/shenwei356/rush) - Cross-platform command-line tool for executing jobs in parallel.
 
 ## Related
 
