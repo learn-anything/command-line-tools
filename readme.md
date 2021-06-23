@@ -411,6 +411,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [so](https://github.com/samtay/so) - Terminal interface for Stack Overflow.
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go.
 - [kalk](https://github.com/PaddiM8/kalk) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. ([Web](https://kalk.strct.net/)) ([HN](https://news.ycombinator.com/item?id=27333772))
+- [fcp](https://github.com/Svetlitski/fcp) - Significantly faster alternative to the classic Unix cp command.
 
 ## Related
 
