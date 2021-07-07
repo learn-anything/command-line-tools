@@ -412,6 +412,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go.
 - [kalk](https://github.com/PaddiM8/kalk) - Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. ([Web](https://kalk.strct.net/)) ([HN](https://news.ycombinator.com/item?id=27333772))
 - [fcp](https://github.com/Svetlitski/fcp) - Significantly faster alternative to the classic Unix cp command.
+- [Renamer](https://github.com/innocenzi/rename) - Command line utility to batch-rename files via your editor.
 
 ## Related
 
