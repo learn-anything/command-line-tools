@@ -415,6 +415,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Renamer](https://github.com/innocenzi/rename) - Command line utility to batch-rename files via your editor.
 - [Difftastic](https://github.com/Wilfred/difftastic) - Syntax-aware structured diff tool. ([HN](https://news.ycombinator.com/item?id=27768861))
 - [hck](https://github.com/sstadick/hck) - Drop in replacement for cut that can use a regex delimiter instead of a fixed string.
+- [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - Calendar heatmap inspired by GitHub contribution activity.
 
 ## Related
 
