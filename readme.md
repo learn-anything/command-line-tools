@@ -417,6 +417,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [hck](https://github.com/sstadick/hck) - Drop in replacement for cut that can use a regex delimiter instead of a fixed string.
 - [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - Calendar heatmap inspired by GitHub contribution activity.
 - [rnr](https://github.com/ChuckDaniels87/rnr) - Command-line tool to batch rename files and directories.
+- [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
 
 ## Related
 
