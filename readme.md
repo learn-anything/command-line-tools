@@ -418,6 +418,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - Calendar heatmap inspired by GitHub contribution activity.
 - [rnr](https://github.com/ChuckDaniels87/rnr) - Command-line tool to batch rename files and directories.
 - [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
+- [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 
 ## Related
 
