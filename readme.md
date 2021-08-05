@@ -21,6 +21,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Static website engines](#static-website-engines)
 - [Text editors](#text-editors)
 - [Web](#web)
+- [Log file handling](#log-file-handling)
 - [Other](#other)
 - [Related](#related)
 
@@ -146,6 +147,14 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [urlsup](https://github.com/simeg/urlsup) - CLI to validate URLs in files.
 
+
+## Log file handling
+- [lnav](https://github.com/tstack/lnav) - Advanced log file viewer for the small-scale; Watch and analyze your log files from a terminal.
+- [red](https://github.com/antonmedv/red) - Terminal log analysis tools.
+- [goaccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
+- [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line.
+- [drep](https://github.com/maxpert/drep) - Grep with dynamic reloadable filter expressions. This allows filtering stream of logs/lines, while changing filters on the fly.
+
 ## Other
 
 - [zenith](https://github.com/bvaisvil/zenith) - Sort of like top or htop but with zoom-able charts, network, and disk usage.
@@ -185,7 +194,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [hunter](https://github.com/rabite0/hunter) - Ranger-like file browser written in rust.
 - [ytop](https://github.com/cjbassi/ytop) - TUI system monitor written in Rust.
 - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [red](https://github.com/antonmedv/red) - Terminal log analysis tools.
 - [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [adns](https://www.gnu.org/software/adns/) - Advanced, easy to use, asynchronous-capable DNS client library and utilities.
 - [advancecomp](https://github.com/amadvance/advancecomp) - Collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files.
@@ -221,7 +229,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [fzy](https://github.com/jhawthorn/fzy) - Better fuzzy finder.
 - [gdbm](https://www.gnu.org.ua/software/gdbm/) - Library of database functions that use extensible hashing and work similar to the standard UNIX dbm.
 - [gifski](https://github.com/ImageOptim/gifski) - GIF encoder. Squeezes maximum possible quality from the awful GIF format.
-- [goaccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
 - [GraphicsMagick](http://www.graphicsmagick.org/) - Swiss army knife of image processing.
 - [hask-replace](https://github.com/vmchale/hask-replace) - Command-line tool to rename modules in Haskell projects.
@@ -358,7 +365,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [wifi-password](https://github.com/bradyjoslin/wifi-password) - Quickly share Wi-Fi connection info.
 - [delta](https://github.com/dandavison/delta) - Syntax-highlighter for git and diff output.
 - [fzz](https://github.com/mrnugget/fzz) - Allows you to change the input of a single command interactively.
-- [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line.
 - [github-stats](https://github.com/umutphp/github-stats) - Command-line tool to get the total traffic statistics of your GitHub repositories.
 - [map](https://github.com/soveran/map) - Map lines from stdin to commands.
 - [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool built with Rust.
@@ -376,7 +382,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [ugrep](https://github.com/Genivia/ugrep) - Ultra fast grep with interactive query UI.
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 - [wfh](https://github.com/kzys/wfh) - Continuously watches your local directories and rsync them against a remote host.
-- [drep](https://github.com/maxpert/drep) - Grep with dynamic reloadable filter expressions. This allows filtering stream of logs/lines, while changing filters on the fly.
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command.
 - [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
