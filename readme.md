@@ -21,7 +21,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Static website engines](#static-website-engines)
 - [Text editors](#text-editors)
 - [Web](#web)
-- [Log file handling](#log-file-handling)
+- [Logging](#logging)
 - [Other](#other)
 - [Related](#related)
 
@@ -147,8 +147,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [urlsup](https://github.com/simeg/urlsup) - CLI to validate URLs in files.
 
+## Logging
 
-## Log file handling
 - [lnav](https://github.com/tstack/lnav) - Advanced log file viewer for the small-scale; Watch and analyze your log files from a terminal.
 - [red](https://github.com/antonmedv/red) - Terminal log analysis tools.
 - [goaccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
