@@ -87,6 +87,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Catflap](https://github.com/passcod/catflap) - Creates a listening TCP socket and passes its FD to a child process.
 - [curlie](https://github.com/rs/curlie) - Power of curl, the ease of use of httpie.
 - [sshfs](https://github.com/libfuse/sshfs) - Network filesystem client to connect to SSH servers.
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 - [telnet](https://www.explainshell.com/explain/telnet) - User interface to the TELNET protocol.
 - [bandwhich](https://github.com/imsnif/bandwhich) - CLI utility for displaying current network utilization by process, connection and remote IP/hostname.
 - [httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era.
