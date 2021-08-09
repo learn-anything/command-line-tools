@@ -426,6 +426,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Gaze](https://github.com/wtetsu/gaze) - Runs a command, right after you save a file.
 - [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
+- [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
 
 ## Related
 
