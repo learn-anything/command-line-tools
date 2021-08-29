@@ -428,6 +428,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 - [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
+- [Sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds.
 
 ## Related
 
