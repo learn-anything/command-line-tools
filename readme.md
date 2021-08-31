@@ -429,6 +429,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Rustcat](https://github.com/robiot/rustcat) - Netcat Alternative in Rust.
 - [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
 - [Sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds.
+- [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 
 ## Related
 
