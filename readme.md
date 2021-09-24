@@ -432,6 +432,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Sweep](https://github.com/woubuc/sweep) - Reduce the disk usage of your projects by removing dependencies & builds.
 - [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 - [tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search.
+- [qq](https://github.com/mattn/qq) - Select stdin with query.
 
 ## Related
 
