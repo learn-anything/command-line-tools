@@ -86,6 +86,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Networking
 
+- [neoss](https://github.com/PabloLec/neoss) - Socket statistics visualization and explanation tool for Unix systems.
 - [Catflap](https://github.com/passcod/catflap) - Creates a listening TCP socket and passes its FD to a child process.
 - [curlie](https://github.com/rs/curlie) - Power of curl, the ease of use of httpie.
 - [sshfs](https://github.com/libfuse/sshfs) - Network filesystem client to connect to SSH servers.
