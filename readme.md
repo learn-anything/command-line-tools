@@ -433,6 +433,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 - [tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search.
 - [qq](https://github.com/mattn/qq) - Select stdin with query.
+- [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
 
 ## Related
 
