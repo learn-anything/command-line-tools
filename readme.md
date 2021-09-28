@@ -434,6 +434,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search.
 - [qq](https://github.com/mattn/qq) - Select stdin with query.
 - [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
+- [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment. ([HN](https://news.ycombinator.com/item?id=28670252))
+- [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 
 ## Related
 
