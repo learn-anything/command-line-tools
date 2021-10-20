@@ -437,6 +437,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [TV](https://github.com/alexhallam/tv) - Cross-platform CSV pretty printer made to maximize viewer enjoyment. ([HN](https://news.ycombinator.com/item?id=28670252))
 - [anew](https://github.com/tomnomnom/anew) - Tool for adding new lines to files, skipping duplicates.
 - [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
+- [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 
 ## Related
 
