@@ -439,6 +439,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 - [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
+- [alt](https://github.com/uptech/alt) - Find alternate files.
 
 ## Related
 
