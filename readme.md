@@ -440,6 +440,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [conan](https://github.com/mirage/conan) - Find clue about the type of the file.
 - [alt](https://github.com/uptech/alt) - Find alternate files.
+- [fzwiki](https://github.com/sheepla/fzwiki) - Command with fzf-like UI to quickly search Wikipedia articles and open it in your browser.
 
 ## Related
 
