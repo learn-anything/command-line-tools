@@ -442,6 +442,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [alt](https://github.com/uptech/alt) - Find alternate files.
 - [fzwiki](https://github.com/sheepla/fzwiki) - Command with fzf-like UI to quickly search Wikipedia articles and open it in your browser.
 - [Untree](https://github.com/codeinred/untree) - Converts tree diagrams produced by tree back into directory file structures.
+- [IDNT](https://github.com/r-darwish/idnt) - Batch software uninstall.
 
 ## Related
 
