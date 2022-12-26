@@ -137,6 +137,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Text editors
 
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi selections.
+- [helix](https://github.com/helix-editor/helix) - A Kakoune / Neovim inspired editor, written in Rust.
 - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
 - [emacs](https://www.explainshell.com/explain/emacs) - Extendable/customizable text editor.
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
