@@ -111,6 +111,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Productivity
 
 - [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal.
+- [cb](https://github.com/Slackadays/Clipboard) - Powerful clipboard manager for all platforms.
 
 ## Python
 
